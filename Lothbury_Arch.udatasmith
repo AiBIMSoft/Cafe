@@ -3,7 +3,7 @@
 	<SDKVersion>5.1.1-23901901</SDKVersion>
 	<Host>Revit</Host>
 	<Application Vendor="Autodesk Inc." ProductName="Revit" ProductVersion="2021"/>
-	<ResourcePath>D:/Unreal Projects/Lothbury_L07Cafe</ResourcePath>
+	<ResourcePath>D:/Unreal Projects/Cafe</ResourcePath>
 	<User ID="69cc7e3a433963a5e4c3caa1735b30a3" OS="Windows 10 (22H2) [10.0.19045.3086]"/>
 	<StaticMesh name="1733004b66a0fcf8f56814b0da5141b1" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/1733004b66a0fcf8f56814b0da5141b1.udsmesh"/>
@@ -160,19 +160,19 @@
 	</StaticMesh>
 	<StaticMesh name="0c715bc469b475d5c2ff9153cf8f6525" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/0c715bc469b475d5c2ff9153cf8f6525.udsmesh"/>
-		<Size a="278994.46875" x="376.735779" y="13.500134" z="344.499908"/>
+		<Size a="283827.4375" x="383.450195" y="13.500004" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="0563c1b26f1c4a1ba7daa70401bd2ab4"/>
+		<Hash value="70b790f94e046f7181d4791e9f9186cd"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="3f9fb805b97564c213f030d40c15367e" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/3f9fb805b97564c213f030d40c15367e.udsmesh"/>
-		<Size a="82596.054688" x="132.961151" y="13.500422" z="344.499908"/>
+		<Size a="82595.742188" x="132.948334" y="13.500181" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="946bc43d527e38b0be568b16eb4efee2"/>
+		<Hash value="48ff45a63d5d4bffe05a7d82a2b5978a"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -934,15 +934,6 @@
 		<Hash value="8dca6daed44e1e41122e0bf8be322fea"/>
 		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
 	</StaticMesh>
-	<StaticMesh name="56ef7c899ea83ec443c877c0b7f5d105" label="Walls_Basic_Wall_135mm_Internal_Wall">
-		<file path="Lothbury_Arch_Assets/56ef7c899ea83ec443c877c0b7f5d105.udsmesh"/>
-		<Size a="265130.75" x="760.013184" y="13.500459" z="344.499908"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="d439f288b1e0d4cf1b8c25c0599a6cd2"/>
-		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
-		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
-	</StaticMesh>
 	<StaticMesh name="30c91d9798241ecda3c7db1772dc22ce" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/30c91d9798241ecda3c7db1772dc22ce.udsmesh"/>
 		<Size a="107474.09375" x="139.773743" y="13.500036" z="344.499908"/>
@@ -1015,10 +1006,18 @@
 		<Material id="0" name="47faa256bf84e4d8b51238534daf40c6"/>
 		<Material id="1" name="2da11f6210d648b85b8551710dce3723"/>
 	</StaticMesh>
+	<StaticMesh name="c502a0b70395801836b20699786e0455" label="Generic_Models_Arches_Arches">
+		<file path="Lothbury_Arch_Assets/c502a0b70395801836b20699786e0455.udsmesh"/>
+		<Size a="805857.0625" x="766.185547" y="199.29541" z="344.499512"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5b6a95bd05274a07c5af3f143715f1dc"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
 	<Camera name="b5bf558a06213e01067feb826a987cee" label="Object_3D_-_rachel_thornton56HC4_" layer="Views">
-		<Transform tx="4116.990967" ty="-5269.073186" tz="4825.75095" sx="1.0" sy="1.0" sz="1.0" qx="-0.371987" qy="0.153656" qz="0.846091" qw="0.349492" qhex64="8B58EAFDA3CED7BFF9BE6A57FCAAC33FF2DE68372E13EB3F759FDB5F145ED63F"/>
+		<Transform tx="3274.034293" ty="-4197.899516" tz="5194.656334" sx="1.0" sy="1.0" sz="1.0" qx="-0.356948" qy="0.198388" qz="0.797864" qw="0.443445" qhex64="47D684693BD8D6BF62539C23C564C93FBC98E3DF1A88E93F27791A116561DC3F"/>
 		<SensorWidth value="36.0"/>
-		<SensorAspectRatio value="1.261204"/>
+		<SensorAspectRatio value="1.346041"/>
 		<DepthOfField enabled="0"/>
 		<FocusDistance value="30480.0"/>
 		<FStop value="5.6"/>
@@ -3852,13 +3851,6 @@
 					</ActorMesh>
 				</children>
 			</Actor>
-			<ActorMesh name="6d66a008823d4a027ec329af93dbff28" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
-				<mesh name="56ef7c899ea83ec443c877c0b7f5d105"/>
-				<Transform tx="3201.465236" ty="-4559.485343" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="000000000000000000000000000000009628C17D7593943F74F4C29558FEEF3F"/>
-				<tag value="Revit.Element.Id.2489713" />
-				<tag value="Revit.Element.UniqueId.ab1819c9-ae3f-401c-a83e-6f4ec8708feb-0025fd71" />
-				<tag value="IsElement" />
-			</ActorMesh>
 			<ActorMesh name="a061e6d98b057c9225967b51fecbc56d" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
 				<mesh name="04bf22d4c53a2beeec117865d8efc314"/>
 				<Transform tx="2630.189626" ty="-4191.815736" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.721074" qw="0.692858" qhex64="000000000000008000000000000000001F393CAC0913E73F12C099C5E42BE63F"/>
@@ -3995,6 +3987,15 @@
 		<Transform tx="146.330059" ty="-6696.131521" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000800000000000000000F43B7F669EA0E63FA63B7F669EA0E63F"/>
 		<tag value="Revit.Element.Id.2485571" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ed43" />
+		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
+		<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
+		<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+	</ActorMesh>
+	<ActorMesh name="2b71018b882e881aa25d8de0cb3f5376" label="Generic_Models_Arches_Arches" layer="Generic Models">
+		<mesh name="c502a0b70395801836b20699786e0455"/>
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.2515141" />
+		<tag value="Revit.Element.UniqueId.db6d47f4-0d44-4185-9cca-04f40ec66fed-002660c5" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 		<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 		<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
@@ -4454,7 +4455,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="1723"/>
 		<KeyValueProperty name="Element*Area" type="String" val="1 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.17 m³"/>
@@ -4515,7 +4515,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="15817"/>
 		<KeyValueProperty name="Element*Area" type="String" val="55 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="7.42 m³"/>
@@ -4532,7 +4531,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="12306"/>
 		<KeyValueProperty name="Element*Area" type="String" val="42 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="5.72 m³"/>
@@ -4631,7 +4629,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3435"/>
 		<KeyValueProperty name="Element*Area" type="String" val="10 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.42 m³"/>
@@ -4648,7 +4645,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="980"/>
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.46 m³"/>
@@ -4765,7 +4761,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3218"/>
 		<KeyValueProperty name="Element*Area" type="String" val="8 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.07 m³"/>
@@ -4782,7 +4777,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="955"/>
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.44 m³"/>
@@ -4799,7 +4793,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="4648"/>
 		<KeyValueProperty name="Element*Area" type="String" val="16 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="2.13 m³"/>
@@ -4816,7 +4809,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="4085"/>
 		<KeyValueProperty name="Element*Area" type="String" val="14 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.90 m³"/>
@@ -4834,7 +4826,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="14"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -4876,7 +4867,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="14"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -4917,7 +4907,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2362"/>
 		<KeyValueProperty name="Element*Area" type="String" val="7 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.92 m³"/>
@@ -4934,7 +4923,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2160"/>
 		<KeyValueProperty name="Element*Area" type="String" val="7 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.00 m³"/>
@@ -5251,7 +5239,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="9435"/>
 		<KeyValueProperty name="Element*Area" type="String" val="23 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="3.13 m³"/>
@@ -5286,7 +5273,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="13"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -5328,7 +5314,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="13"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -5369,7 +5354,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="4742"/>
 		<KeyValueProperty name="Element*Area" type="String" val="15 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="2.02 m³"/>
@@ -5386,7 +5370,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="438"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.20 m³"/>
@@ -5403,7 +5386,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="438"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.20 m³"/>
@@ -5520,7 +5502,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2266"/>
 		<KeyValueProperty name="Element*Area" type="String" val="5 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.65 m³"/>
@@ -5540,7 +5521,7 @@
 		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3902"/>
 		<KeyValueProperty name="Element*Area" type="String" val="13 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="1.75 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="1.78 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
@@ -5653,7 +5634,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="8446"/>
 		<KeyValueProperty name="Element*Area" type="String" val="29 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="3.93 m³"/>
@@ -5752,7 +5732,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3384"/>
 		<KeyValueProperty name="Element*Area" type="String" val="10 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.39 m³"/>
@@ -5769,7 +5748,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="4699"/>
 		<KeyValueProperty name="Element*Area" type="String" val="16 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="2.19 m³"/>
@@ -5786,7 +5764,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="835"/>
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.39 m³"/>
@@ -5803,7 +5780,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="755"/>
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.35 m³"/>
@@ -5820,7 +5796,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2549"/>
 		<KeyValueProperty name="Element*Area" type="String" val="8 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.12 m³"/>
@@ -5953,7 +5928,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="5340"/>
 		<KeyValueProperty name="Element*Area" type="String" val="18 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="2.48 m³"/>
@@ -5970,7 +5944,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3798"/>
 		<KeyValueProperty name="Element*Area" type="String" val="13 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.73 m³"/>
@@ -9959,7 +9932,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="25764"/>
 		<KeyValueProperty name="Element*Area" type="String" val="13 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.82 m³"/>
@@ -9976,7 +9948,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3501"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.24 m³"/>
@@ -13055,23 +13026,6 @@
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Curtain Wall Types"/>
 	</MetaData>
-	<MetaData name="6d66a008823d4a027ec329af93dbff28_DATA" reference="Actor.6d66a008823d4a027ec329af93dbff28">
-		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
-		<KeyValueProperty name="Element*Type" type="String" val="135mm Internal Wall"/>
-		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="No"/>
-		<KeyValueProperty name="Element*Structural Usage" type="String" val="Non-bearing"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Element*Length" type="String" val="7600"/>
-		<KeyValueProperty name="Element*Area" type="String" val="11 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="1.47 m³"/>
-		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
-	</MetaData>
 	<MetaData name="a061e6d98b057c9225967b51fecbc56d_DATA" reference="Actor.a061e6d98b057c9225967b51fecbc56d">
 		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
@@ -13082,7 +13036,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="4085"/>
 		<KeyValueProperty name="Element*Area" type="String" val="14 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.84 m³"/>
@@ -13099,7 +13052,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="1540"/>
 		<KeyValueProperty name="Element*Area" type="String" val="5 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.72 m³"/>
@@ -13116,7 +13068,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="593"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.28 m³"/>
@@ -13133,7 +13084,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2300"/>
 		<KeyValueProperty name="Element*Area" type="String" val="8 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.07 m³"/>
@@ -13151,7 +13101,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="21"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -13193,7 +13142,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="21"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -13234,7 +13182,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="2404"/>
 		<KeyValueProperty name="Element*Area" type="String" val="6 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.87 m³"/>
@@ -13252,7 +13199,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="20"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -13294,7 +13240,6 @@
 		<KeyValueProperty name="Element*Surface Material" type="String" val="Paint : NCSS0502Y"/>
 		<KeyValueProperty name="Element*Mark" type="String" val="20"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Door Surface Finish" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Door Surface Finish Material" type="String" val="JW.Wood.Ash.Thermo.Vertical"/>
 		<KeyValueProperty name="Type*Frame Surface Finish Material" type="String" val="JW.Paint.NCS S 6030-Y40R"/>
@@ -13335,7 +13280,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="1811"/>
 		<KeyValueProperty name="Element*Area" type="String" val="4 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.60 m³"/>
@@ -13370,5 +13314,29 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Level Types"/>
 	</MetaData>
-	<Export Duration="3"/>
+	<MetaData name="2b71018b882e881aa25d8de0cb3f5376_DATA" reference="Actor.2b71018b882e881aa25d8de0cb3f5376">
+		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Arches"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Arches"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="18.41 m³"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
+	</MetaData>
+	<MetaData name="d6f584a259e779bd5c10b1bc0cfafe14_DATA" reference="Actor.d6f584a259e779bd5c10b1bc0cfafe14">
+		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Arches"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Arches"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="18.41 m³"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
+	</MetaData>
+	<Export Duration="4"/>
 </DatasmithUnrealScene>
