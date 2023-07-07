@@ -5,66 +5,6 @@
 	<Application Vendor="Autodesk Inc." ProductName="Revit" ProductVersion="2021"/>
 	<ResourcePath>D:/Unreal Projects/Cafe</ResourcePath>
 	<User ID="69cc7e3a433963a5e4c3caa1735b30a3" OS="Windows 10 (22H2) [10.0.19045.3086]"/>
-	<StaticMesh name="df2fe4a4f155848c69bb7f55d1c921b6" label="Specialty_Equipment_34246-07-04_A_34246-07-04_A">
-		<file path="Lothbury_Arch_Assets/df2fe4a4f155848c69bb7f55d1c921b6.udsmesh"/>
-		<Size a="187314.125" x="225.199219" y="143.5" z="163.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="21b67530744538c7308c6f4f4ee2a407"/>
-		<Material id="0" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="1" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="2" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="3" name="e1ec90bc5895c418ec0c9a99d2fe282d"/>
-		<Material id="4" name="c1a1334d5d67c88d35368eec301e5616"/>
-	</StaticMesh>
-	<StaticMesh name="b0a31f11b58bd2bfde89159f4d4a29f6" label="Specialty_Equipment_34246-07-05_A_34246-07-05_A">
-		<file path="Lothbury_Arch_Assets/b0a31f11b58bd2bfde89159f4d4a29f6.udsmesh"/>
-		<Size a="190036.328125" x="160.0" y="171.0" z="163.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="caef8f4c909d418546de47873cede817"/>
-		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="1" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="2" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="3" name="e1ec90bc5895c418ec0c9a99d2fe282d"/>
-		<Material id="4" name="c1a1334d5d67c88d35368eec301e5616"/>
-	</StaticMesh>
-	<StaticMesh name="407e4592bd18e90cfa6f31ebe5fdfe98" label="Specialty_Equipment_34246-07-06_B_34246-07-06_B">
-		<file path="Lothbury_Arch_Assets/407e4592bd18e90cfa6f31ebe5fdfe98.udsmesh"/>
-		<Size a="132833.453125" x="140.0" y="130.0" z="163.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="e4eac310786c6ccb0c534e483ca418c9"/>
-		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="1" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="2" name="e1ec90bc5895c418ec0c9a99d2fe282d"/>
-		<Material id="3" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="4" name="c1a1334d5d67c88d35368eec301e5616"/>
-	</StaticMesh>
-	<StaticMesh name="8272c6d3ab538c084aa509c4b9765362" label="Specialty_Equipment_34246-07-07_B_34246-07-07_B">
-		<file path="Lothbury_Arch_Assets/8272c6d3ab538c084aa509c4b9765362.udsmesh"/>
-		<Size a="118910.070312" x="125.0" y="115.0" z="163.000793"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="33200f85a6759751003a3c20ae5d0d3a"/>
-		<Material id="0" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="1" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="2" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="3" name="e1ec90bc5895c418ec0c9a99d2fe282d"/>
-		<Material id="4" name="c1a1334d5d67c88d35368eec301e5616"/>
-	</StaticMesh>
-	<StaticMesh name="2aedbcebc6f985dfd98e6f433c952290" label="Specialty_Equipment_34246-07-09_A_34246-07-09_A">
-		<file path="Lothbury_Arch_Assets/2aedbcebc6f985dfd98e6f433c952290.udsmesh"/>
-		<Size a="137360.4375" x="299.549438" y="96.699997" z="163.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="fbf4e9163c3f9dc5e8620af0cfec2779"/>
-		<Material id="0" name="c1a1334d5d67c88d35368eec301e5616"/>
-		<Material id="1" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="2" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="3" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="4" name="bd8afc0a0f8607cf510327e88dfbc537"/>
-	</StaticMesh>
 	<StaticMesh name="1733004b66a0fcf8f56814b0da5141b1" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/1733004b66a0fcf8f56814b0da5141b1.udsmesh"/>
 		<Size a="1196863.75" x="1660.613281" y="13.500111" z="344.499908"/>
@@ -130,37 +70,37 @@
 	</StaticMesh>
 	<StaticMesh name="7e88361bd3b20ba35f0045cb733bca84" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/7e88361bd3b20ba35f0045cb733bca84.udsmesh"/>
-		<Size a="301739.09375" x="408.432373" y="13.500156" z="344.499908"/>
+		<Size a="301739.0625" x="408.432373" y="13.500156" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="fcfb7a93a70cf53f9078029be3ed33d3"/>
+		<Hash value="a748e320924504f18c6bb48f5fcde7a8"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="dc0c198cb90d7d2bb01075693b89c487" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/dc0c198cb90d7d2bb01075693b89c487.udsmesh"/>
-		<Size a="127373.515625" x="209.540314" y="13.500294" z="344.499908"/>
+		<Size a="127374.609375" x="209.541718" y="13.500107" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="078406f68ba3314d23fd6081f5f6acac"/>
+		<Hash value="55890d58e5673468defb9fa92f3efee0"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="f6478329da0d3705294c78249714bb60" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/f6478329da0d3705294c78249714bb60.udsmesh"/>
-		<Size a="162727.671875" x="214.334366" y="13.500129" z="344.499908"/>
+		<Size a="163128.46875" x="214.894089" y="13.500128" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="107ebd2b27d844185594a6c13e222913"/>
+		<Hash value="23e017dfa6a8e0d86f35a4e8d9343c44"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="8397fb468293d59d4da49c127e654fc8" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/8397fb468293d59d4da49c127e654fc8.udsmesh"/>
-		<Size a="541814.875" x="979.51416" y="13.500217" z="344.499908"/>
+		<Size a="541814.8125" x="979.51416" y="13.500278" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="d337f4beb8f36002a3cb5c3dcf72a782"/>
+		<Hash value="962ac9a1b5d73d48ba7f73a56f05df0b"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -175,10 +115,10 @@
 	</StaticMesh>
 	<StaticMesh name="72c9fefd14cae9c750dfce7d5930c467" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/72c9fefd14cae9c750dfce7d5930c467.udsmesh"/>
-		<Size a="366509.65625" x="543.510742" y="13.500196" z="344.499908"/>
+		<Size a="366509.59375" x="543.510742" y="13.500196" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="95d3ffbb10ea735e67d9e82acf4f64a2"/>
+		<Hash value="217f4063fcaa1368aa78cffd7ee366f5"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -202,19 +142,19 @@
 	</StaticMesh>
 	<StaticMesh name="3f9fb805b97564c213f030d40c15367e" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/3f9fb805b97564c213f030d40c15367e.udsmesh"/>
-		<Size a="81904.921875" x="146.119858" y="13.500406" z="344.499908"/>
+		<Size a="81904.914062" x="146.119858" y="13.500343" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="0d40355da7d1c39e63ad61889be7399c"/>
+		<Hash value="6ce65addac4b9227ed7ef7e62e5dfbb1"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="82df208b74009afbd39d0ad339275fe9" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/82df208b74009afbd39d0ad339275fe9.udsmesh"/>
-		<Size a="618855.75" x="853.413086" y="13.50038" z="344.499908"/>
+		<Size a="606957.25" x="836.795532" y="13.50035" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="faf6bc0e6d5ad692a9a047603edfc80f"/>
+		<Hash value="a128cb23e0dc7bf031bf6cb15fed538a"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -327,10 +267,10 @@
 	</StaticMesh>
 	<StaticMesh name="0e6be083c8b686ba1af05d67dd832807" label="Floors_Floor_Generic_300mm">
 		<file path="Lothbury_Arch_Assets/0e6be083c8b686ba1af05d67dd832807.udsmesh"/>
-		<Size a="7564087.0" x="3273.093262" y="2353.041016" z="30.000029"/>
+		<Size a="7564321.0" x="3273.117188" y="2353.041016" z="30.000029"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="32fe2d9eb03eceb3ddd89548e0eb7f11"/>
+		<Hash value="d47b87dba557c896cc43be9d98c9b9a5"/>
 		<Material id="0" name="358f260f88fe585d3f8f8b82832a8974"/>
 	</StaticMesh>
 	<StaticMesh name="5179a0d666d2c7e47217f9ac0bf024d0" label="Walls_Basic_Wall_135mm_Internal_Wall">
@@ -353,10 +293,10 @@
 	</StaticMesh>
 	<StaticMesh name="3ee3fd6777c08e2b0f44ec7c820902c9" label="Floors_Floor_Generic_300mm">
 		<file path="Lothbury_Arch_Assets/3ee3fd6777c08e2b0f44ec7c820902c9.udsmesh"/>
-		<Size a="9339072.0" x="3774.72583" y="2605.238525" z="17.852863"/>
+		<Size a="9487395.0" x="3774.749756" y="2605.238525" z="30.000029"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="88e4c86e2661ca204fb71d6cf3b43fe1"/>
+		<Hash value="1333a27b3eb576cb80182fd66aa1b8d9"/>
 		<Material id="0" name="358f260f88fe585d3f8f8b82832a8974"/>
 	</StaticMesh>
 	<StaticMesh name="0b2ce92fb691b880a7c434dbe927d69a" label="Curtain_Panels_aln_d100_panel_d100">
@@ -409,15 +349,6 @@
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
-	<StaticMesh name="fb46355752257992b2ec92daa398f55b" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/fb46355752257992b2ec92daa398f55b.udsmesh"/>
-		<Size a="225147.0" x="180.285355" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="3508e481060d234168c8244cb5b05405"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
-	</StaticMesh>
 	<StaticMesh name="628b279b2ce973426f809fa67e3c76a1" label="Curtain_Wall_Mullions_Rectangular_Mullion_Aln_Top">
 		<file path="Lothbury_Arch_Assets/628b279b2ce973426f809fa67e3c76a1.udsmesh"/>
 		<Size a="12801.260742" x="7.522703" y="6.040003" z="185.587143"/>
@@ -450,12 +381,12 @@
 		<Hash value="3f3715411153034ab4715322966b1c53"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 	</StaticMesh>
-	<StaticMesh name="578456c848e805ee93b0cf2172e87418" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/578456c848e805ee93b0cf2172e87418.udsmesh"/>
+	<StaticMesh name="5d9888f882aa92cc1b8a3b785d795d09" label="Curtain_Panels_aln_d100_panel_d100">
+		<file path="Lothbury_Arch_Assets/5d9888f882aa92cc1b8a3b785d795d09.udsmesh"/>
 		<Size a="201611.421875" x="159.38295" y="10.000002" z="259.949646"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="11f41130a7f3a785c00b8fd331b99fa7"/>
+		<Hash value="5ca1b256eded5d8a95d97c23bfc15159"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
@@ -475,21 +406,21 @@
 		<Hash value="ef81ac539714bf061e266a6b02ad6252"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 	</StaticMesh>
-	<StaticMesh name="957b15dd8f819b435863c61a70c11c23" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/957b15dd8f819b435863c61a70c11c23.udsmesh"/>
+	<StaticMesh name="d2274c8a7167c9106cb2588e1bdece68" label="Curtain_Panels_aln_d100_panel_d100">
+		<file path="Lothbury_Arch_Assets/d2274c8a7167c9106cb2588e1bdece68.udsmesh"/>
 		<Size a="214277.59375" x="170.632263" y="10.000002" z="259.949646"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="d8413da4d662a32abf7eefb2e24cc32e"/>
+		<Hash value="3be8e9a73a6777e7f4eadfde06b13726"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
-	<StaticMesh name="dc8ca7b0a8a3b46304fe9fdfb52a0eca" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/dc8ca7b0a8a3b46304fe9fdfb52a0eca.udsmesh"/>
+	<StaticMesh name="0e154ba35f36999a7e38a29d3205bb0e" label="Curtain_Panels_aln_d100_panel_d100">
+		<file path="Lothbury_Arch_Assets/0e154ba35f36999a7e38a29d3205bb0e.udsmesh"/>
 		<Size a="213356.578125" x="169.814056" y="10.000002" z="259.949646"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="4649dad34917c0f8d76e022579847100"/>
+		<Hash value="73b54175f150270953b51578e1f75496"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
@@ -744,18 +675,18 @@
 	</StaticMesh>
 	<StaticMesh name="a7fbc8edb8d567af14d312334e497b7f" label="Structural_Columns_Structural_Columns6_Structural_Columns">
 		<file path="Lothbury_Arch_Assets/a7fbc8edb8d567af14d312334e497b7f.udsmesh"/>
-		<Size a="40329.859375" x="21.372559" y="21.295898" z="344.499512"/>
+		<Size a="41486.167969" x="21.390625" y="21.755371" z="344.499512"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="279ef8ef8ac71463bb27fde0f2591dad"/>
+		<Hash value="8dca6daed44e1e41122e0bf8be322fea"/>
 		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
 	</StaticMesh>
 	<StaticMesh name="04bf22d4c53a2beeec117865d8efc314" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/04bf22d4c53a2beeec117865d8efc314.udsmesh"/>
-		<Size a="301738.78125" x="408.432129" y="13.500042" z="344.499908"/>
+		<Size a="301738.78125" x="408.432129" y="13.500048" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="a937ef49b32d9b75dae61aa3c4cc31af"/>
+		<Hash value="3bacae7ef6eef6628bf04c7adab356b6"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -770,19 +701,19 @@
 	</StaticMesh>
 	<StaticMesh name="002ce6fafd952a94becf70267015aa99" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/002ce6fafd952a94becf70267015aa99.udsmesh"/>
-		<Size a="53222.84375" x="61.342777" y="13.49995" z="344.499908"/>
+		<Size a="43556.742188" x="47.842621" y="13.49995" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="dfc5dc57d66f0cbb04ca9821ebe5a511"/>
+		<Hash value="0012e60e2608ad9f03b1e74336339ba5"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
 	<StaticMesh name="aaa0d4b93c35fdd7aefa02b713a51f5e" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/aaa0d4b93c35fdd7aefa02b713a51f5e.udsmesh"/>
-		<Size a="150621.078125" x="241.990448" y="13.500185" z="344.499908"/>
+		<Size a="715574.5" x="1032.050171" y="13.500295" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="5509844b307d2c8127ece582c387404e"/>
+		<Hash value="10891fee76294af98bd99f398d01c40f"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -813,40 +744,6 @@
 		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
 		<Material id="1" name="0c7fe74c03d27cc63a9e324ae3f11c44"/>
 	</StaticMesh>
-	<StaticMesh name="bbaec17000b16e31c77de41bd1095109" label="Specialty_Equipment_34246-07-01_A_34246-07-01_A">
-		<file path="Lothbury_Arch_Assets/bbaec17000b16e31c77de41bd1095109.udsmesh"/>
-		<Size a="852337.0625" x="410.0" y="285.0" z="163.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="d9ea4e2c5289ea4daa03faf4386ff6fd"/>
-		<Material id="0" name="1d11482998be0f52b0854baced45fbca"/>
-		<Material id="1" name="a27dba5b4904440cf3366241b57da85d"/>
-		<Material id="2" name="25116ef912286d426dceee888eb2c3c4"/>
-		<Material id="3" name="708711102074570ca075435d3bc124d3"/>
-		<Material id="4" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="5" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="6" name="e1ec90bc5895c418ec0c9a99d2fe282d"/>
-		<Material id="7" name="c1a1334d5d67c88d35368eec301e5616"/>
-		<Material id="8" name="bd8afc0a0f8607cf510327e88dfbc537"/>
-	</StaticMesh>
-	<StaticMesh name="b2fe5b0fa033723793cb4f4141076028" label="Specialty_Equipment_34246-06-03_A_34246-06-03_A">
-		<file path="Lothbury_Arch_Assets/b2fe5b0fa033723793cb4f4141076028.udsmesh"/>
-		<Size a="649271.9375" x="169.600006" y="358.199982" z="87.0"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="8370e6da6ba60d7be0f6bdeac43e27e8"/>
-		<Material id="0" name="f8984e44e362c3d59e1ff02599aee919"/>
-		<Material id="1" name="6c198bbcc99c6a3801d0414f3fd6b041"/>
-		<Material id="2" name="74d6cacb9641b43e961979b661d30677"/>
-		<Material id="3" name="b188ed6b9cdf760b59f117910ad36170"/>
-		<Material id="4" name="ee0b8325ebf3ebd87046f05537f9636b"/>
-		<Material id="5" name="4a479126f63d370594e00acbf75bb8ba"/>
-		<Material id="6" name="aac6f33d5fd16472d695f51661b93a30"/>
-		<Material id="7" name="ab43c4adf8531a8b8cdb38b56e35af14"/>
-		<Material id="8" name="b1f5e37df855b07389e7d767045f0233"/>
-		<Material id="9" name="7f1bacc7812709247293eb5d68091c2b"/>
-		<Material id="10" name="987eeffd8959f685aa469c58728e4ecd"/>
-	</StaticMesh>
 	<StaticMesh name="cbbb0ddc305a6fd7ff28ed93f403e608" label="Curtain_Wall_Mullions_Rectangular_Mullion_Aln_Bottom">
 		<file path="Lothbury_Arch_Assets/cbbb0ddc305a6fd7ff28ed93f403e608.udsmesh"/>
 		<Size a="10662.081055" x="5.592721" y="6.040003" z="193.861145"/>
@@ -855,12 +752,12 @@
 		<Hash value="f471a3ab375c233177e34dcd79b69698"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 	</StaticMesh>
-	<StaticMesh name="9ca41579bfe7362c14dc064e52875766" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/9ca41579bfe7362c14dc064e52875766.udsmesh"/>
+	<StaticMesh name="4daefbd9ee52efb6d13b7da96f5f5cfe" label="Curtain_Panels_aln_d100_panel_d100">
+		<file path="Lothbury_Arch_Assets/4daefbd9ee52efb6d13b7da96f5f5cfe.udsmesh"/>
 		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="4cf2220395214cd33341258a66048e29"/>
+		<Hash value="8844f2b4fa2729475e8fd61a321e8d8e"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
 		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
@@ -879,51 +776,6 @@
 		<LightmapUV value="-1"/>
 		<Hash value="3773cde362b03fc6a331df7b43a9b3fc"/>
 		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-	</StaticMesh>
-	<StaticMesh name="014a312cb220f6a57f9f24c1d7f7efb6" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/014a312cb220f6a57f9f24c1d7f7efb6.udsmesh"/>
-		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="c06e9f107c3e2cd67697094f4895b505"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
-	</StaticMesh>
-	<StaticMesh name="89c6a0b15cc0be9d6ef4a0ba3cc62954" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/89c6a0b15cc0be9d6ef4a0ba3cc62954.udsmesh"/>
-		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="a88cdc518294fbe70a2dfee4eacd75dd"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
-	</StaticMesh>
-	<StaticMesh name="a84986a16c8dfa1cd8b2fe097e19a4ee" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/a84986a16c8dfa1cd8b2fe097e19a4ee.udsmesh"/>
-		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="60ad237885a283b8e3ac6ef7761a726d"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
-	</StaticMesh>
-	<StaticMesh name="7a806c4af5c4d2aba2197ad284ac9aa2" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/7a806c4af5c4d2aba2197ad284ac9aa2.udsmesh"/>
-		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="b6603019ba46f8a71342aba4472a902f"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
-	</StaticMesh>
-	<StaticMesh name="0fa4cb9872819b0a56758a5eb678506a" label="Curtain_Panels_aln_d100_panel_d100">
-		<file path="Lothbury_Arch_Assets/0fa4cb9872819b0a56758a5eb678506a.udsmesh"/>
-		<Size a="227698.46875" x="182.552246" y="10.000002" z="259.949646"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="53e5492c2a863ee04c0913830de69ac5"/>
-		<Material id="0" name="6abcfa466fbb415b098e5b739a3e4d3a"/>
-		<Material id="1" name="cd058ba147d8b10fb9c9df4cd3f632ae"/>
 	</StaticMesh>
 	<StaticMesh name="26ebb2fad53d55488453c774c16bca78" label="Curtain_Wall_Mullions_Rectangular_Mullion_Aln_Top">
 		<file path="Lothbury_Arch_Assets/26ebb2fad53d55488453c774c16bca78.udsmesh"/>
@@ -952,10 +804,10 @@
 	</StaticMesh>
 	<StaticMesh name="1f5b038827a30d66e8274bce969d586c" label="Walls_Basic_Wall_135mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/1f5b038827a30d66e8274bce969d586c.udsmesh"/>
-		<Size a="21549.207031" x="19.151363" y="13.500244" z="344.499908"/>
+		<Size a="24125.683594" x="22.749935" y="13.500196" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="bb638aa1e9ab932db0afd4c959495484"/>
+		<Hash value="3f9dfab7cbcfb78d481c989410da9369"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
@@ -969,42 +821,42 @@
 	</StaticMesh>
 	<StaticMesh name="13fbd88addcc400589be9df497dc4e51" label="Walls_Basic_Wall_75mm_Internal_Wall">
 		<file path="Lothbury_Arch_Assets/13fbd88addcc400589be9df497dc4e51.udsmesh"/>
-		<Size a="116912.632812" x="158.950714" y="7.500118" z="344.499908"/>
+		<Size a="116912.609375" x="158.950638" y="7.499953" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="6a6096f3d8e0c247dd5a215a7292d33f"/>
+		<Hash value="adde9caac8968b31f4610f4c690e4a25"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
-	<StaticMesh name="72b2730e8a575286818d846c2c84402a" label="Columns_Columns_Round_500mm_Diameter">
-		<file path="Lothbury_Arch_Assets/72b2730e8a575286818d846c2c84402a.udsmesh"/>
-		<Size a="114227.648438" x="55.0" y="55.0" z="344.499512"/>
+	<StaticMesh name="f365da9a6bfff43be0b4161acf781bd6" label="Walls_Basic_Wall_75mm_Internal_Wall">
+		<file path="Lothbury_Arch_Assets/f365da9a6bfff43be0b4161acf781bd6.udsmesh"/>
+		<Size a="234140.9375" x="745.888184" y="7.500457" z="344.499908"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="0bc18e56e5c24fa716750edf638e0130"/>
-		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
-	</StaticMesh>
-	<StaticMesh name="12c91e4a2eeb546fb664cf3fbc8dcc4b" label="Columns_Sqare_Column_Sqare_Column">
-		<file path="Lothbury_Arch_Assets/12c91e4a2eeb546fb664cf3fbc8dcc4b.udsmesh"/>
-		<Size a="113238.0625" x="47.278809" y="47.279297" z="344.499512"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="be78e5f06227492c56b755d88914e124"/>
-		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
-	</StaticMesh>
-	<StaticMesh name="5b3034308d7f9a2e2ca2f2903c613e8e" label="Walls_Basic_Wall_75mm_Internal_Wall">
-		<file path="Lothbury_Arch_Assets/5b3034308d7f9a2e2ca2f2903c613e8e.udsmesh"/>
-		<Size a="234616.125" x="746.579407" y="7.500458" z="344.499908"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="126e72e7b04ea7650ec2e08f1f7f6685"/>
+		<Hash value="2ad905dd8fd9f260f474fc9a4a6f48c1"/>
 		<Material id="0" name="2da11f6210d648b85b8551710dce3723"/>
 		<Material id="1" name="47faa256bf84e4d8b51238534daf40c6"/>
 	</StaticMesh>
-	<Camera name="84bfc266e51c9af19e8e4e9de2654cc8" label="Object_3D_-_rachel_thornton56HC4_" layer="Views">
-		<Transform tx="5213.68587" ty="-5668.8032" tz="7221.878611" sx="1.0" sy="1.0" sz="1.0" qx="-0.345742" qy="0.173105" qz="0.824639" qw="0.412877" qhex64="6BC91520A320D6BF6BBBA9864A28C63F654276067263EA3F92EBE7B4926CDA3F"/>
+	<StaticMesh name="7df892d9fc13ae37078ff1f14a55a122" label="Columns_Columns_Round_550mm_Diameter">
+		<file path="Lothbury_Arch_Assets/7df892d9fc13ae37078ff1f14a55a122.udsmesh"/>
+		<Size a="64123.40625" x="55.0" y="55.0" z="344.499512"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a25b07b92ddb2694886ce2edfab72bb9"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<StaticMesh name="a019cea8ac165cdd4e95d406972b0e68" label="Columns_Square_Column_Square_Column">
+		<file path="Lothbury_Arch_Assets/a019cea8ac165cdd4e95d406972b0e68.udsmesh"/>
+		<Size a="113237.820312" x="47.278809" y="47.279053" z="344.499512"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="106bca65c9c6c75abe685cbd7f37044e"/>
+		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
+	</StaticMesh>
+	<Camera name="b5bf558a06213e01067feb826a987cee" label="RT" layer="Views">
+		<Transform tx="7021.954538" ty="-6765.202772" tz="8105.67814" sx="1.0" sy="1.0" sz="1.0" qx="-0.26316" qy="0.127913" qz="0.860023" qw="0.418026" qhex64="374D4E279ED7D0BF0312BC8C705FC03FF527E7E44E85EB3F04DA321BEFC0DA3F"/>
 		<SensorWidth value="36.0"/>
-		<SensorAspectRatio value="0.903208"/>
+		<SensorAspectRatio value="1.472373"/>
 		<DepthOfField enabled="0"/>
 		<FocusDistance value="30480.0"/>
 		<FStop value="5.6"/>
@@ -1031,21 +883,6 @@
 		<tag value="Revit.Element.UniqueId.8c305f59-e22d-427b-955c-5e48c698e9b4-00065f7c" />
 		<tag value="Revit.Element.BasePoint" />
 	</Actor>
-	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_8mm_Head_Level_07_Soffit" layer="Levels">
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-		<tag value="Revit.Element.Id.2152023" />
-		<tag value="Revit.Element.UniqueId.71ed2c43-05db-433d-881a-0ffac2a80137-001f73a1" />
-		<tag value="IsElement" />
-		<children visible="true">
-			<ActorMesh name="b17f16d7a4fbfae29d308648a837db1a" label="Floors_Floor_Generic_300mm" layer="Floors">
-				<mesh name="0e6be083c8b686ba1af05d67dd832807"/>
-				<Transform tx="2062.149348" ty="-2561.494401" tz="4948.999926" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2418492" />
-				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024e73c" />
-				<tag value="IsElement" />
-			</ActorMesh>
-		</children>
-	</Actor>
 	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_8mm_Head_Level_07_Ceiling" layer="Levels">
 		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.1429122" />
@@ -1059,14 +896,20 @@
 				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250e5a" />
 				<tag value="IsElement" />
 			</ActorMesh>
-			<ActorMesh name="7c2c50d5a732fb9839c9cf0197baac00" label="Specialty_Equipment_34246-07-05_A_34246-07-05_A" layer="Specialty Equipment">
-				<mesh name="b0a31f11b58bd2bfde89159f4d4a29f6"/>
-				<Transform tx="2584.980754" ty="-2824.842001" tz="4874.499927" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020276" qw="0.999794" qhex64="000000000000008000000000000000005BC729F64DC3943FAC3C79DB50FEEF3F"/>
-				<tag value="Revit.Element.Id.2327796" />
-				<tag value="Revit.Element.UniqueId.87edfa78-0db5-4085-a866-9fc3286b3612-002384f4" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
+		</children>
+	</Actor>
+	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_8mm_Head_Level_07_Soffit" layer="Levels">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<tag value="Revit.Element.Id.2152023" />
+		<tag value="Revit.Element.UniqueId.71ed2c43-05db-433d-881a-0ffac2a80137-001f73a1" />
+		<tag value="IsElement" />
+		<children visible="true">
+			<ActorMesh name="b17f16d7a4fbfae29d308648a837db1a" label="Floors_Floor_Generic_300mm" layer="Floors">
+				<mesh name="0e6be083c8b686ba1af05d67dd832807"/>
+				<Transform tx="2062.125501" ty="-2561.494401" tz="4948.999926" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.2418492" />
+				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024e73c" />
+				<tag value="IsElement" />
 			</ActorMesh>
 		</children>
 	</Actor>
@@ -1160,14 +1003,14 @@
 			</ActorMesh>
 			<ActorMesh name="3cd791b277ba146a47c562cce6c64985" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
 				<mesh name="dc0c198cb90d7d2bb01075693b89c487"/>
-				<Transform tx="2277.210388" ty="-4211.912715" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.999773" qw="0.021306" qhex64="00000000000000800000000000000000017553EF23FEEFBF6503F36153D1953F"/>
+				<Transform tx="2277.188056" ty="-4211.353406" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.999773" qw="0.021306" qhex64="00000000000000800000000000000000017553EF23FEEFBF6503F36153D1953F"/>
 				<tag value="Revit.Element.Id.2341322" />
 				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0023b9ca" />
 				<tag value="IsElement" />
 				<children visible="true">
 					<ActorMesh name="5147bcaad052cfb908cabb4fca13e7e5" label="Doors_Generic_Wood_Single_Door_886_x_2049_mm_-_M9_x_M20_5" layer="Doors">
 						<mesh name="86b77f6f67e4a27ba2cd43eccd3c82c7"/>
-						<Transform tx="2195.818063" ty="-4215.383421" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.999773" qw="0.021306" qhex64="00000000000000800000000000000000017553EF23FEEFBF6503F36153D1953F"/>
+						<Transform tx="2195.709088" ty="-4214.827807" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.999773" qw="0.021306" qhex64="00000000000000800000000000000000017553EF23FEEFBF6503F36153D1953F"/>
 						<tag value="Revit.Element.Id.2394068" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-002487d4" />
 						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -1180,7 +1023,7 @@
 			</ActorMesh>
 			<ActorMesh name="cca0bc3268b459b2f846f294b625ed04" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
 				<mesh name="f6478329da0d3705294c78249714bb60"/>
-				<Transform tx="2067.878671" ty="-4220.838974" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.69188" qw="0.722012" qhex64="000000000000008000000000000000006C42E365E223E6BF442A1E25B91AE73F"/>
+				<Transform tx="2067.854824" ty="-4220.27973" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.69188" qw="0.722012" qhex64="000000000000008000000000000000006C42E365E223E6BF442A1E25B91AE73F"/>
 				<tag value="Revit.Element.Id.2341557" />
 				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0023bab5" />
 				<tag value="IsElement" />
@@ -1194,7 +1037,7 @@
 				<children visible="true">
 					<ActorMesh name="0369845ec99e6afa26e181bc92260ba9" label="Doors_Doors_Door-sets_JELD-WEN_Exterior_Function_F2090+AL1200_W69_Veneered_Unequal_Double_10_1290_x_2280_mm_-_M13_M9+4__x_M23" layer="Doors">
 						<mesh name="dc40cd929e22029a9cccaf140fd11b8a"/>
-						<Transform tx="2209.756825" ty="-4430.290849" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.017452" qw="0.999848" qhex64="00000000000000800000000000000000C9DE892B0BDF913F8BAFF597C0FEEF3F"/>
+						<Transform tx="2177.776319" ty="-4431.407633" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.017452" qw="0.999848" qhex64="00000000000000800000000000000000C9DE892B0BDF913F8BAFF597C0FEEF3F"/>
 						<tag value="Revit.Element.Id.2418386" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024e6d2" />
 						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -1290,7 +1133,7 @@
 				<children visible="true">
 					<ActorMesh name="8dacb8bf4ebae577307a8e7df6ac9206" label="Doors_Generic_Wood_Single_Door_886_x_2049_mm_-_M9_x_M20_5" layer="Doors">
 						<mesh name="86b77f6f67e4a27ba2cd43eccd3c82c7"/>
-						<Transform tx="3153.774394" ty="-4558.586221" tz="4604.509412" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.02201" qw="0.999758" qhex64="000000000000008000000000000000006028C28CCA89963F199944F703FEEF3F"/>
+						<Transform tx="3133.793772" ty="-4559.466408" tz="4604.509412" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.02201" qw="0.999758" qhex64="000000000000008000000000000000006028C28CCA89963F199944F703FEEF3F"/>
 						<tag value="Revit.Element.Id.2418408" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024e6e8" />
 						<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -1372,7 +1215,7 @@
 			</ActorMesh>
 			<ActorMesh name="dd840ca0432ce65991342e358ce2910b" label="Floors_Floor_Generic_300mm" layer="Floors">
 				<mesh name="3ee3fd6777c08e2b0f44ec7c820902c9"/>
-				<Transform tx="2062.149348" ty="-2370.651526" tz="4586.646957" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<Transform tx="2062.125501" ty="-2370.651526" tz="4574.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 				<tag value="Revit.Element.Id.2420219" />
 				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024edfb" />
 				<tag value="IsElement" />
@@ -1538,7 +1381,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250961" />
 					</ActorMesh>
 					<ActorMesh name="79fdcc5a68c556ab4b3bec6c61562fb8" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="fb46355752257992b2ec92daa398f55b"/>
+						<mesh name="0b2ce92fb691b880a7c434dbe927d69a"/>
 						<Transform tx="5272.124646" ty="-2991.219594" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.591054" qw="0.806632" qhex64="00000000000000800000000000000000FCCE4B4EE9E9E23FCB0E9975EECFE93F"/>
 						<tag value="Revit.Element.Id.2427474" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250a52" />
@@ -1777,7 +1620,7 @@
 				<tag value="IsElement" />
 				<children visible="true">
 					<ActorMesh name="e160d2448e427e720521edba0b4b015f" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="578456c848e805ee93b0cf2172e87418"/>
+						<mesh name="5d9888f882aa92cc1b8a3b785d795d09"/>
 						<Transform tx="3179.766695" ty="-4785.955348" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2428013" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6d" />
@@ -1832,7 +1675,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="c45b6af221c0a06686c90fe09a927e0f" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="9ca41579bfe7362c14dc064e52875766"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="3349.537081" ty="-4779.128562" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615726" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027e9ae" />
@@ -1865,7 +1708,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="29433d909707276813824403e055ceed" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="014a312cb220f6a57f9f24c1d7f7efb6"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="3530.882764" ty="-4771.836311" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615843" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027ea23" />
@@ -1876,7 +1719,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="2f3a0baf6f8ea6f6faa8c0c570e5b7f9" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="89c6a0b15cc0be9d6ef4a0ba3cc62954"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="3712.228446" ty="-4764.54406" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615845" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027ea25" />
@@ -1887,7 +1730,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="9cf1f37858573bf99b19d2fcca19f966" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="a84986a16c8dfa1cd8b2fe097e19a4ee"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="3893.574128" ty="-4757.251809" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615847" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027ea27" />
@@ -1898,7 +1741,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="04b9c6903b8d76968eec2b4eaf216378" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="7a806c4af5c4d2aba2197ad284ac9aa2"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="4074.919811" ty="-4749.959558" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615849" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027ea29" />
@@ -1909,7 +1752,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250c6c" />
 					</ActorMesh>
 					<ActorMesh name="e0f0d44b590321e353e007744a683746" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="0fa4cb9872819b0a56758a5eb678506a"/>
+						<mesh name="4daefbd9ee52efb6d13b7da96f5f5cfe"/>
 						<Transform tx="4256.265493" ty="-4742.667307" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="00000000000000800000000000000000802AC17D7593943F74F4C29558FEEF3F"/>
 						<tag value="Revit.Element.Id.2615851" />
 						<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027ea2b" />
@@ -2038,7 +1881,7 @@
 				<tag value="IsElement" />
 				<children visible="true">
 					<ActorMesh name="e52dcf6b90f6a0931e7494ea46116a0b" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="957b15dd8f819b435863c61a70c11c23"/>
+						<mesh name="d2274c8a7167c9106cb2588e1bdece68"/>
 						<Transform tx="4439.718624" ty="-4767.729344" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.160983" qw="0.986957" qhex64="00000000000000800000000000000000C3CBC586179BC4BFDC4062362795EF3F"/>
 						<tag value="Revit.Element.Id.2428113" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250cd1" />
@@ -2049,7 +1892,7 @@
 						<tag value="Revit.Host.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250cd0" />
 					</ActorMesh>
 					<ActorMesh name="babec350d6999bcc200311a0c34a6d41" label="Curtain_Panels_aln_d100_panel_d100" layer="Curtain Panels" component="true">
-						<mesh name="dc8ca7b0a8a3b46304fe9fdfb52a0eca"/>
+						<mesh name="0e154ba35f36999a7e38a29d3205bb0e"/>
 						<Transform tx="4600.113864" ty="-4821.483761" tz="4608.930109" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.160983" qw="0.986957" qhex64="00000000000000800000000000000000C3CBC586179BC4BFDC4062362795EF3F"/>
 						<tag value="Revit.Element.Id.2428116" />
 						<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-00250cd4" />
@@ -2766,7 +2609,7 @@
 			</ActorMesh>
 			<ActorMesh name="17e8441f7e0c83f1c787f629060707f3" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
 				<mesh name="aaa0d4b93c35fdd7aefa02b713a51f5e"/>
-				<Transform tx="2765.781012" ty="-4028.234603" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.019952" qw="0.999801" qhex64="000000000000000000000000000000005FE16DE7316E943F9B19228E5EFEEF3F"/>
+				<Transform tx="1983.095089" ty="-4059.484954" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.019952" qw="0.999801" qhex64="000000000000000000000000000000005FE16DE7316E943F9B19228E5EFEEF3F"/>
 				<tag value="Revit.Element.Id.2491330" />
 				<tag value="Revit.Element.UniqueId.ab1819c9-ae3f-401c-a83e-6f4ec8708feb-002603c2" />
 				<tag value="IsElement" />
@@ -2820,7 +2663,7 @@
 			</ActorMesh>
 			<ActorMesh name="0074bdf380b0a44c57ea6a6406bd661f" label="Walls_Basic_Wall_135mm_Internal_Wall" layer="Walls">
 				<mesh name="1f5b038827a30d66e8274bce969d586c"/>
-				<Transform tx="4069.432988" ty="-4353.643115" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.807779" qw="0.589485" qhex64="000000000000008000000000000000005E19EE6F53D9E9BF0F56067310DDE23F"/>
+				<Transform tx="4053.926732" ty="-4350.883445" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.807779" qw="0.589485" qhex64="000000000000008000000000000000005E19EE6F53D9E9BF0F56067310DDE23F"/>
 				<tag value="Revit.Element.Id.2618611" />
 				<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-0027f4f3" />
 				<tag value="IsElement" />
@@ -2832,117 +2675,63 @@
 				<tag value="Revit.Element.UniqueId.fdc4d6ed-db2b-4149-8eda-56f9e19bf9b9-00280123" />
 				<tag value="IsElement" />
 			</ActorMesh>
-			<ActorMesh name="ea48e2e8418a60a524865ec6282efb21" label="Walls_Basic_Wall_75mm_Internal_Wall" layer="Walls">
-				<mesh name="5b3034308d7f9a2e2ca2f2903c613e8e"/>
-				<Transform tx="3208.034874" ty="-4559.221165" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.020094" qw="0.999798" qhex64="000000000000000000000000000000009628C17D7593943F74F4C29558FEEF3F"/>
-				<tag value="Revit.Element.Id.2651283" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-00287493" />
+			<ActorMesh name="e224043d55b24c59a2c26b596d73bf6c" label="Walls_Basic_Wall_75mm_Internal_Wall" layer="Walls">
+				<mesh name="f365da9a6bfff43be0b4161acf781bd6"/>
+				<Transform tx="3215.398216" ty="-4557.503663" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.019142" qw="0.999817" qhex64="0000000000000000000000000000000012C6EEA8F799933F4AF09FBF7FFEEF3F"/>
+				<tag value="Revit.Element.Id.2722477" />
+				<tag value="Revit.Element.UniqueId.d11cc52e-9283-497a-b90e-a5e9f4e752bd-00297696" />
 				<tag value="IsElement" />
 			</ActorMesh>
-			<ActorMesh name="33af7732171b2f2413d95f462a8b7576" label="Specialty_Equipment_34246-07-04_A_34246-07-04_A" layer="Specialty Equipment">
-				<mesh name="df2fe4a4f155848c69bb7f55d1c921b6"/>
-				<Transform tx="3594.325519" ty="-3743.201474" tz="4804.499928" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.588326" qw="0.808624" qhex64="00000000000000800000000000000000DC4F889090D3E23F241D6F753FE0E93F"/>
-				<tag value="Revit.Element.Id.2320157" />
-				<tag value="Revit.Element.UniqueId.87edfa78-0db5-4085-a866-9fc3286b3612-0023671d" />
+			<ActorMesh name="0253ccdf776fa8b75b60fba8b67e0a4f" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="3739.057424" ty="-4704.356834" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3031953" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e4391" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 			</ActorMesh>
-			<ActorMesh name="d509892804c5e935ec3712305fd33989" label="Specialty_Equipment_34246-07-06_B_34246-07-06_B" layer="Specialty Equipment">
-				<mesh name="407e4592bd18e90cfa6f31ebe5fdfe98"/>
-				<Transform tx="4212.385647" ty="-3335.746737" tz="4804.499928" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.592415" qw="0.805633" qhex64="0000000000000080000000000000000068F5F99210F5E23F64BD4593BEC7E93F"/>
-				<tag value="Revit.Element.Id.2331419" />
-				<tag value="Revit.Element.UniqueId.87edfa78-0db5-4085-a866-9fc3286b3612-0023931b" />
+			<ActorMesh name="11ab7669beb104687b7f051d05bde55d" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="4317.894177" ty="-4681.513093" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3032107" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e442b" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 			</ActorMesh>
-			<ActorMesh name="2b012e976018582bdcffcdc2608b9bcc" label="Specialty_Equipment_34246-07-07_B_34246-07-07_B" layer="Specialty Equipment">
-				<mesh name="8272c6d3ab538c084aa509c4b9765362"/>
-				<Transform tx="4185.491622" ty="-3298.309293" tz="4804.499928" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.805633" qw="0.592415" qhex64="000000000000008000000000000000005BBD4593BEC7E9BF72F5F99210F5E23F"/>
-				<tag value="Revit.Element.Id.2335022" />
-				<tag value="Revit.Element.UniqueId.87edfa78-0db5-4085-a866-9fc3286b3612-0023a12e" />
+			<ActorMesh name="cfa2ab170c555ca7f7b26bb10d058960" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="4653.895987" ty="-4773.549578" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3032121" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e4439" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 			</ActorMesh>
-			<ActorMesh name="51949020b4626fd84bab9668059eb03f" label="Specialty_Equipment_34246-07-09_A_34246-07-09_A" layer="Specialty Equipment">
-				<mesh name="2aedbcebc6f985dfd98e6f433c952290"/>
-				<Transform tx="4123.180528" ty="-4167.022459" tz="4804.499928" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.809259" qw="0.587451" qhex64="00000000000000800000000000000000381F9DED73E5E9BFD59B251267CCE23F"/>
-				<tag value="Revit.Element.Id.2337588" />
-				<tag value="Revit.Element.UniqueId.87edfa78-0db5-4085-a866-9fc3286b3612-0023ab34" />
+			<ActorMesh name="cb125b135d1779ba651e165bf77ecee3" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="4815.479567" ty="-4258.018214" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3032130" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e4442" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 			</ActorMesh>
-			<ActorMesh name="550873fc002c014f3053e535ddc704bf" label="Specialty_Equipment_34246-07-01_A_34246-07-01_A" layer="Specialty Equipment">
-				<mesh name="bbaec17000b16e31c77de41bd1095109"/>
-				<Transform tx="3725.071942" ty="-3766.06058" tz="4804.499928" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.017971" qw="0.999839" qhex64="000000000000008000000000000000002109861AFC66923F733E1E54ADFEEF3F"/>
-				<tag value="Revit.Element.Id.2562032" />
-				<tag value="Revit.Element.UniqueId.8eb57c4a-ff06-4a66-acfe-58feaf5ed2a2-002717f0" />
+			<ActorMesh name="5faf80df1123bd6524159e24b213527b" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="4976.897574" ty="-3742.825109" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3032139" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e444b" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 			</ActorMesh>
-			<ActorMesh name="5a0d1e18c76d5ca5270b49971f48af3c" label="Specialty_Equipment_34246-06-03_A_34246-06-03_A" layer="Specialty Equipment">
-				<mesh name="b2fe5b0fa033723793cb4f4141076028"/>
-				<Transform tx="3513.925496" ty="-3136.099089" tz="4604.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.694285" qw="0.7197" qhex64="0000000000000080000000000000000010B9BA919537E6BFF7A71D47C807E73F"/>
-				<tag value="Revit.Element.Id.2574586" />
-				<tag value="Revit.Element.UniqueId.8eb57c4a-ff06-4a66-acfe-58feaf5ed2a2-002748fa" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="34b17ff56a65db5ed458d480e6bba6dd" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="3738.986197" ty="-4704.369994" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2649627" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-00286e1b" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="29d0d092422d75b220f8eba791e0a5c1" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="4317.839209" ty="-4681.525421" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2649936" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-00286f50" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="e2b1093996522633a4f6dad7d713bd1e" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="4653.670374" ty="-4773.599408" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2650004" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-00286f94" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="a6606c7bc3506e81e679a6ecdefe4e95" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="4815.253955" ty="-4258.068045" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2650522" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-0028719a" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="6a7585d218fce8833ee5dec43aaf62cd" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="4976.671961" ty="-3742.87494" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2650564" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-002871c4" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-			</ActorMesh>
-			<ActorMesh name="cc4341c7efde51d7876375d60e5ab14f" label="Columns_Columns_Round_500mm_Diameter" layer="Columns">
-				<mesh name="72b2730e8a575286818d846c2c84402a"/>
-				<Transform tx="5138.153643" ty="-3227.585062" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2650613" />
-				<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-002871f5" />
+			<ActorMesh name="7763865597908ea1680371ecbfcadc96" label="Columns_Columns_Round_550mm_Diameter" layer="Columns">
+				<mesh name="7df892d9fc13ae37078ff1f14a55a122"/>
+				<Transform tx="5138.208611" ty="-3227.572735" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+				<tag value="Revit.Element.Id.3032148" />
+				<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e4454" />
 				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
@@ -2951,7 +2740,7 @@
 	</Actor>
 	<ActorMesh name="0c818414dc2ebd41eb69fcba1ac0c884" label="Structural_Columns_Structural_Columns_Structural_Columns" layer="Structural Columns">
 		<mesh name="f383f2d10e219f536e2d40048cecd034"/>
-		<Transform tx="-11.680894" ty="-7.150576" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="-11.841533" ty="-7.189502" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485258" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ec0a" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -2960,7 +2749,7 @@
 	</ActorMesh>
 	<ActorMesh name="3126e87ce747a6b906c2e8dc57d30302" label="Structural_Columns_Structural_Columns1_Structural_Columns" layer="Structural Columns">
 		<mesh name="479c9220f3f1aa03973719f6a16c7364"/>
-		<Transform tx="567.172117" ty="15.693998" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="566.995221" ty="15.654239" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485361" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ec71" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -2969,7 +2758,7 @@
 	</ActorMesh>
 	<ActorMesh name="d541ae3f31522db4a232385cb22875e2" label="Structural_Columns_Structural_Columns2_Structural_Columns" layer="Structural Columns">
 		<mesh name="5b60ec8f22598916f4ace1afdb3dd300"/>
-		<Transform tx="902.994605" ty="-76.372192" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="902.826386" ty="-76.419749" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485407" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ec9f" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -2978,7 +2767,7 @@
 	</ActorMesh>
 	<ActorMesh name="c9fd6c0d31b989203fc0582a5c5ac1d5" label="Structural_Columns_Structural_Columns3_Structural_Columns" layer="Structural Columns">
 		<mesh name="00cde8a3f3323c8bea2031a7e37b2a85"/>
-		<Transform tx="1064.578186" ty="439.159172" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="1064.591037" ty="439.173219" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485469" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ecdd" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -2987,7 +2776,7 @@
 	</ActorMesh>
 	<ActorMesh name="6d0418a6e84849ca9904276f55c9e98c" label="Structural_Columns_Structural_Columns4_Structural_Columns" layer="Structural Columns">
 		<mesh name="21df1a4067a60550149418c1429bdbd6"/>
-		<Transform tx="1225.996192" ty="954.352277" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="1225.827973" ty="954.30472" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485511" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ed07" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -2996,7 +2785,7 @@
 	</ActorMesh>
 	<ActorMesh name="ab473b499ed7e122b5ff301eacbb32ee" label="Structural_Columns_Structural_Columns5_Structural_Columns" layer="Structural Columns">
 		<mesh name="4907ac088a6d4b9379c78fdac1e8ea95"/>
-		<Transform tx="1387.477874" ty="1469.642154" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
+		<Transform tx="1387.309655" ty="1469.594597" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.2485541" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ed25" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -3005,7 +2794,7 @@
 	</ActorMesh>
 	<ActorMesh name="2e82ea903f7bfb961b93bf6498965342" label="Structural_Columns_Structural_Columns6_Structural_Columns" layer="Structural Columns">
 		<mesh name="a7fbc8edb8d567af14d312334e497b7f"/>
-		<Transform tx="134.719581" ty="-6703.505743" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000800000000000000000F43B7F669EA0E63FA63B7F669EA0E63F"/>
+		<Transform tx="134.488526" ty="-6703.321023" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex64="00000000000000800000000000000000F43B7F669EA0E63FA63B7F669EA0E63F"/>
 		<tag value="Revit.Element.Id.2485571" />
 		<tag value="Revit.Element.UniqueId.c6c1493b-baef-4cbc-b69d-41ecf09caef8-0025ed43" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
@@ -3030,18 +2819,15 @@
 		<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 		<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 	</ActorMesh>
-	<ActorMesh name="b7a2f35fbffe58b657027b21ebfc6bcf" label="Columns_Sqare_Column_Sqare_Column" layer="Columns">
-		<mesh name="12c91e4a2eeb546fb664cf3fbc8dcc4b"/>
+	<ActorMesh name="6f9e2f1f15b872871bcf388b97f8d25b" label="Columns_Square_Column_Square_Column" layer="Columns">
+		<mesh name="a019cea8ac165cdd4e95d406972b0e68"/>
 		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-		<tag value="Revit.Element.Id.2650898" />
-		<tag value="Revit.Element.UniqueId.5e772eed-b74d-4b76-90d1-87d7f7b9932f-00287312" />
+		<tag value="Revit.Element.Id.3032411" />
+		<tag value="Revit.Element.UniqueId.ab424aea-5724-4ecf-be0f-d2a5063ef944-002e455b" />
 		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
 		<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
 		<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
 	</ActorMesh>
-	<Texture name="04c2fdb290429c95eacfb2baf75e8086_0" label="mesh_circular_alt_cutout" texturemode="5" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="0" file="Lothbury_Arch_Assets/mesh_circular_alt_cutout.png">
-		<Hash value="9dfd13b219c35b96d545ee6cb1e54a01"/>
-	</Texture>
 	<Texture name="cdeb86af311286c5b7dfb2387608143e_0" label="Finishes_Gypsum_Board_Painted_White" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="Lothbury_Arch_Assets/Finishes.Gypsum Board.Painted.White.jpg">
 		<Hash value="c83569abef00e4a337cc6dced43ca637"/>
 	</Texture>
@@ -3054,72 +2840,6 @@
 	<Texture name="eba4ed65a5598f520b100da7348bec24_0" label="Woods___Plastics_Finish_Carpentry_Wood_White_Oak" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" srgb="1" file="Lothbury_Arch_Assets/Woods & Plastics.Finish Carpentry.Wood.White Oak.png">
 		<Hash value="bdc203a8c5ef67fafa3b04ce0f3d9eb8"/>
 	</Texture>
-	<MaterialInstance name="25116ef912286d426dceee888eb2c3c4"  label="Aluminium" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="74d6cacb9641b43e961979b661d30677"  label="RNT_Material" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="f8984e44e362c3d59e1ff02599aee919"  label="Stainless_Steel" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.470588,G=0.470588,B=0.470588,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="True"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-	</MaterialInstance>
-	<MaterialInstance name="e1ec90bc5895c418ec0c9a99d2fe282d"  label="Clear_Plastic" Type="2" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="True"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.960784,G=0.960784,B=0.952941,A=1.000000)"/>
-		<KeyValueProperty name="Transparency" type="Float" val="0.956863"/>
-		<KeyValueProperty name="TransparencyMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RefractionIndex" type="Float" val="1.491000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.000000"/>
-	</MaterialInstance>
-	<MaterialInstance name="c1a1334d5d67c88d35368eec301e5616"  label="Zinc" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.470588,G=0.470588,B=0.470588,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="True"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="1.000000"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-	</MaterialInstance>
-	<MaterialInstance name="bd8afc0a0f8607cf510327e88dfbc537"  label="PERF" Type="5" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.796078,G=0.796078,B=0.796078,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.264575"/>
-		<KeyValueProperty name="CutoutOpacityMap" type="Texture" val="04c2fdb290429c95eacfb2baf75e8086_0"/>
-		<KeyValueProperty name="CutoutMap_UVOffsetX" type="Float" val="0.000000"/>
-		<KeyValueProperty name="CutoutMap_UVOffsetY" type="Float" val="0.000000"/>
-		<KeyValueProperty name="CutoutMap_UVScaleX" type="Float" val="30.479998"/>
-		<KeyValueProperty name="CutoutMap_UVScaleY" type="Float" val="30.479998"/>
-		<KeyValueProperty name="CutoutMap_UVWAngle" type="Float" val="0.000000"/>
-	</MaterialInstance>
 	<MaterialInstance name="2da11f6210d648b85b8551710dce3723"  label="Gypsum_Wall_Board" Type="1" Quality="0" >
 		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.894118,G=0.894118,B=0.894118,A=1.000000)"/>
 		<KeyValueProperty name="DiffuseMapFading" type="Float" val="1.000000"/>
@@ -3171,6 +2891,19 @@
 		<KeyValueProperty name="Transparency" type="Float" val="0.900000"/>
 		<KeyValueProperty name="TransparencyMapFading" type="Float" val="0.000000"/>
 		<KeyValueProperty name="RefractionIndex" type="Float" val="1.520000"/>
+	</MaterialInstance>
+	<MaterialInstance name="25116ef912286d426dceee888eb2c3c4"  label="Aluminium" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
+		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
 	</MaterialInstance>
 	<MaterialInstance name="5e6c5539ae16efae9a407dbfb9b51a02"  label="JW_Glass_Clear" Type="2" Quality="0" >
 		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.000000,G=0.501961,B=0.752941,A=1.000000)"/>
@@ -3287,6 +3020,15 @@
 		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
 		<KeyValueProperty name="Glossiness" type="Float" val="0.250000"/>
 	</MaterialInstance>
+	<MaterialInstance name="74d6cacb9641b43e961979b661d30677"  label="RNT_Material" Type="1" Quality="0" >
+		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
+		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
+		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
+		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
+		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
+		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
+		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
+	</MaterialInstance>
 	<MaterialInstance name="fd35547e75db9d31b7fa8054dc16e139"  label="NCS_S_0502-Y" Type="1" Quality="0" >
 		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.317647,G=0.317647,B=0.000000,A=1.000000)"/>
 		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
@@ -3332,133 +3074,6 @@
 		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
 		<KeyValueProperty name="RefractionIndex" type="Float" val="1.010000"/>
 	</MaterialInstance>
-	<MaterialInstance name="1d11482998be0f52b0854baced45fbca"  label="Thread" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="a27dba5b4904440cf3366241b57da85d"  label="Plastic" Type="1" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.960784,G=0.960784,B=0.952941,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.264575"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-	</MaterialInstance>
-	<MaterialInstance name="708711102074570ca075435d3bc124d3"  label="Perf_Sheet" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="6c198bbcc99c6a3801d0414f3fd6b041"  label="White_plastic" Type="1" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.956863,G=0.956863,B=0.956863,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.400000"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-	</MaterialInstance>
-	<MaterialInstance name="b188ed6b9cdf760b59f117910ad36170"  label="Brass" Type="1" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.952941,G=0.796078,B=0.482353,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.077460"/>
-	</MaterialInstance>
-	<MaterialInstance name="ee0b8325ebf3ebd87046f05537f9636b"  label="Plastic_Black" Type="1" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.960784,G=0.960784,B=0.952941,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.264575"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-	</MaterialInstance>
-	<MaterialInstance name="4a479126f63d370594e00acbf75bb8ba"  label="Red" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=1.000000,G=0.000000,B=0.000000,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="aac6f33d5fd16472d695f51661b93a30"  label="Yellow" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.705882,G=0.705882,B=0.705882,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="ab43c4adf8531a8b8cdb38b56e35af14"  label="White" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.956863,G=0.956863,B=0.956863,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="b1f5e37df855b07389e7d767045f0233"  label="Black" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.313726,G=0.313726,B=0.313726,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="6500.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="7f1bacc7812709247293eb5d68091c2b"  label="Default" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="987eeffd8959f685aa469c58728e4ecd"  label="Halton_Blue" Type="1" Quality="0" >
-		<KeyValueProperty name="IsPBR" type="Bool" val="True"/>
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.960784,G=0.960784,B=0.952941,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="RoughnessMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="Rougness" type="Float" val="0.264575"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-	</MaterialInstance>
 	<MetaData name="cf6152e30339765264d57a9477a60201_DATA" reference="Actor.cf6152e30339765264d57a9477a60201">
 		<KeyValueProperty name="SurveyPointLocation*Location" type="Vector" val="(0,0,0)"/>
 		<KeyValueProperty name="SurveyPointLocation*Workset" type="String" val="Project Info"/>
@@ -3482,11 +3097,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="7af4cccf031df92d0be0b64ae23a2f28_DATA" reference="Actor.7af4cccf031df92d0be0b64ae23a2f28">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3496,11 +3109,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="3126e87ce747a6b906c2e8dc57d30302_DATA" reference="Actor.3126e87ce747a6b906c2e8dc57d30302">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3510,11 +3121,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="9b724072a617606fc3ffa0f9f354ff89_DATA" reference="Actor.9b724072a617606fc3ffa0f9f354ff89">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3524,11 +3133,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="d541ae3f31522db4a232385cb22875e2_DATA" reference="Actor.d541ae3f31522db4a232385cb22875e2">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3538,11 +3145,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="778ea46620ac94d765db91952d8dd1f0_DATA" reference="Actor.778ea46620ac94d765db91952d8dd1f0">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3552,11 +3157,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="c9fd6c0d31b989203fc0582a5c5ac1d5_DATA" reference="Actor.c9fd6c0d31b989203fc0582a5c5ac1d5">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3566,11 +3169,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="17fd8c0b8fd1b92baa36384cc7021e70_DATA" reference="Actor.17fd8c0b8fd1b92baa36384cc7021e70">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3580,11 +3181,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="6d0418a6e84849ca9904276f55c9e98c_DATA" reference="Actor.6d0418a6e84849ca9904276f55c9e98c">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3594,11 +3193,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="9752b0cc15d72a6c4b2fb8d79a97966a_DATA" reference="Actor.9752b0cc15d72a6c4b2fb8d79a97966a">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3608,11 +3205,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="ab473b499ed7e122b5ff301eacbb32ee_DATA" reference="Actor.ab473b499ed7e122b5ff301eacbb32ee">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3622,11 +3217,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="ad4aebaa2322ade4c80288aaf04e64ed_DATA" reference="Actor.ad4aebaa2322ade4c80288aaf04e64ed">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
@@ -3636,39 +3229,33 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="2e82ea903f7bfb961b93bf6498965342_DATA" reference="Actor.2e82ea903f7bfb961b93bf6498965342">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Structural Columns6"/>
 		<KeyValueProperty name="Element*Type" type="String" val="Structural Columns"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.05 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.03 m³"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="a32e01a63f21565b0a4d78b71d7eca85_DATA" reference="Actor.a32e01a63f21565b0a4d78b71d7eca85">
 		<KeyValueProperty name="Element*Category" type="String" val="Structural Columns"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Structural Columns6"/>
 		<KeyValueProperty name="Element*Type" type="String" val="Structural Columns"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.05 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.03 m³"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Rebar Cover" type="String" val="Rebar Cover 1 &lt;25 mm&gt;"/>
 		<KeyValueProperty name="Type*Section Shape" type="String" val="Not Defined"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
 	<MetaData name="03a2e02659024af3b63be6787c4b1066_DATA" reference="Actor.03a2e02659024af3b63be6787c4b1066">
 		<KeyValueProperty name="Element*Category" type="String" val="Generic Models"/>
@@ -3689,73 +3276,6 @@
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-	</MetaData>
-	<MetaData name="b17f16d7a4fbfae29d308648a837db1a_DATA" reference="Actor.b17f16d7a4fbfae29d308648a837db1a">
-		<KeyValueProperty name="Element*Category" type="String" val="Floors"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Floor"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Generic 300mm"/>
-		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="No"/>
-		<KeyValueProperty name="Element*Perimeter" type="String" val="103763"/>
-		<KeyValueProperty name="Element*Area" type="String" val="363 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="108.79 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="49790"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="49490"/>
-		<KeyValueProperty name="Element*Thickness" type="String" val="300"/>
-		<KeyValueProperty name="Type*Structural Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Floor Types"/>
-	</MetaData>
-	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
-		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
-		<KeyValueProperty name="Element*Type" type="String" val="8mm Head"/>
-		<KeyValueProperty name="Element*Name" type="String" val="Level 07 Soffit"/>
-		<KeyValueProperty name="Element*Computation Height" type="String" val="0"/>
-		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
-		<KeyValueProperty name="Element*Building Story" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Electrical High Level"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Level Types"/>
-	</MetaData>
-	<MetaData name="7c2c50d5a732fb9839c9cf0197baac00_DATA" reference="Actor.7c2c50d5a732fb9839c9cf0197baac00">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-05 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-05 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="1600"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1710"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-05 A"/>
-	</MetaData>
-	<MetaData name="b4c7e4da26d2b399eb4a429a9ce112f6_DATA" reference="Actor.b4c7e4da26d2b399eb4a429a9ce112f6">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-05 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-05 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="1600"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1710"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-05 A"/>
 	</MetaData>
 	<MetaData name="5e3d96e0bcdbbdaae25a6539eeb9c18a_DATA" reference="Actor.5e3d96e0bcdbbdaae25a6539eeb9c18a">
 		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
@@ -3784,125 +3304,34 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Level Types"/>
 	</MetaData>
-	<MetaData name="33af7732171b2f2413d95f462a8b7576_DATA" reference="Actor.33af7732171b2f2413d95f462a8b7576">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-04 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-04 A"/>
+	<MetaData name="b17f16d7a4fbfae29d308648a837db1a_DATA" reference="Actor.b17f16d7a4fbfae29d308648a837db1a">
+		<KeyValueProperty name="Element*Category" type="String" val="Floors"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Floor"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Generic 300mm"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="1900"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-04 A"/>
+		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="No"/>
+		<KeyValueProperty name="Element*Perimeter" type="String" val="103763"/>
+		<KeyValueProperty name="Element*Area" type="String" val="363 m²"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="108.80 m³"/>
+		<KeyValueProperty name="Element*Elevation at Top" type="String" val="49790"/>
+		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="49490"/>
+		<KeyValueProperty name="Element*Thickness" type="String" val="300"/>
+		<KeyValueProperty name="Type*Structural Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Floor Types"/>
 	</MetaData>
-	<MetaData name="a3b2de0c08d247031b47a483625df01e_DATA" reference="Actor.a3b2de0c08d247031b47a483625df01e">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-04 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-04 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="1900"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-04 A"/>
-	</MetaData>
-	<MetaData name="d509892804c5e935ec3712305fd33989_DATA" reference="Actor.d509892804c5e935ec3712305fd33989">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-06 B"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-06 B"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Cleat distance x" type="String" val="20"/>
-		<KeyValueProperty name="Type*Cleat distance y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Height" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="50"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1400"/>
-		<KeyValueProperty name="Type*X total" type="String" val="2900"/>
-		<KeyValueProperty name="Type*Y total" type="String" val="1100"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-06 B"/>
-	</MetaData>
-	<MetaData name="92b5c87b29db7121c66ba325c5310e3d_DATA" reference="Actor.92b5c87b29db7121c66ba325c5310e3d">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-06 B"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-06 B"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Cleat distance x" type="String" val="20"/>
-		<KeyValueProperty name="Type*Cleat distance y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Height" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="50"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1400"/>
-		<KeyValueProperty name="Type*X total" type="String" val="2900"/>
-		<KeyValueProperty name="Type*Y total" type="String" val="1100"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-06 B"/>
-	</MetaData>
-	<MetaData name="2b012e976018582bdcffcdc2608b9bcc_DATA" reference="Actor.2b012e976018582bdcffcdc2608b9bcc">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-07 B"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-07 B"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Cleat distance x" type="String" val="20"/>
-		<KeyValueProperty name="Type*Cleat distance y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Height" type="String" val="1150"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="50"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1250"/>
-		<KeyValueProperty name="Type*X total" type="String" val="2900"/>
-		<KeyValueProperty name="Type*Y total" type="String" val="1100"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-07 B"/>
-	</MetaData>
-	<MetaData name="d97a2ccbcf97edf8d0ba3b34bb6e9320_DATA" reference="Actor.d97a2ccbcf97edf8d0ba3b34bb6e9320">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-07 B"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-07 B"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Cleat distance x" type="String" val="20"/>
-		<KeyValueProperty name="Type*Cleat distance y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Height" type="String" val="1150"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="50"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1250"/>
-		<KeyValueProperty name="Type*X total" type="String" val="2900"/>
-		<KeyValueProperty name="Type*Y total" type="String" val="1100"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-07 B"/>
-	</MetaData>
-	<MetaData name="51949020b4626fd84bab9668059eb03f_DATA" reference="Actor.51949020b4626fd84bab9668059eb03f">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-09 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-09 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-09 A"/>
-	</MetaData>
-	<MetaData name="aad632712c7e76e8eb36ee79c47e0604_DATA" reference="Actor.aad632712c7e76e8eb36ee79c47e0604">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-09 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-09 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-09 A"/>
+	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
+		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
+		<KeyValueProperty name="Element*Type" type="String" val="8mm Head"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Level 07 Soffit"/>
+		<KeyValueProperty name="Element*Computation Height" type="String" val="0"/>
+		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
+		<KeyValueProperty name="Element*Building Story" type="String" val="Yes"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Electrical High Level"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Level Types"/>
 	</MetaData>
 	<MetaData name="2f8e5b858bfc9966da6b53b70fed0b0d_DATA" reference="Actor.2f8e5b858bfc9966da6b53b70fed0b0d">
 		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
@@ -4322,7 +3751,7 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Length" type="String" val="2143"/>
+		<KeyValueProperty name="Element*Length" type="String" val="2148"/>
 		<KeyValueProperty name="Element*Area" type="String" val="7 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.00 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
@@ -4884,7 +4313,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="3737"/>
 		<KeyValueProperty name="Element*Area" type="String" val="12 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="1.68 m³"/>
@@ -4983,7 +4411,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="1460"/>
 		<KeyValueProperty name="Element*Area" type="String" val="3 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.43 m³"/>
@@ -5000,9 +4427,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Length" type="String" val="8648"/>
+		<KeyValueProperty name="Element*Length" type="String" val="8482"/>
 		<KeyValueProperty name="Element*Area" type="String" val="29 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="3.96 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="3.88 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
@@ -9184,7 +8611,7 @@
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
 		<KeyValueProperty name="Element*Length" type="String" val="613"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.29 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.22 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
@@ -9280,9 +8707,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Length" type="String" val="2420"/>
-		<KeyValueProperty name="Element*Area" type="String" val="6 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.87 m³"/>
+		<KeyValueProperty name="Element*Length" type="String" val="10253"/>
+		<KeyValueProperty name="Element*Area" type="String" val="33 m²"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="4.42 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
@@ -9400,62 +8827,6 @@
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
-	<MetaData name="550873fc002c014f3053e535ddc704bf_DATA" reference="Actor.550873fc002c014f3053e535ddc704bf">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-01 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-01 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="2050"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-01 A"/>
-	</MetaData>
-	<MetaData name="d0092ead5ad4225760a1f00e516f8247_DATA" reference="Actor.d0092ead5ad4225760a1f00e516f8247">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-07-01 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-07-01 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*365 spacing" type="String" val="365"/>
-		<KeyValueProperty name="Type*535 spacing" type="String" val="535"/>
-		<KeyValueProperty name="Type*5mm Spacing" type="String" val="5"/>
-		<KeyValueProperty name="Type*CJ" type="String" val="50"/>
-		<KeyValueProperty name="Type*Cleat X" type="String" val="195"/>
-		<KeyValueProperty name="Type*Cleat Y" type="String" val="20"/>
-		<KeyValueProperty name="Type*Ext Spig cutout Y" type="String" val="100"/>
-		<KeyValueProperty name="Type*Length" type="String" val="2050"/>
-		<KeyValueProperty name="Type*Spacing" type="String" val="150"/>
-		<KeyValueProperty name="Type*Width" type="String" val="1300"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-07-01 A"/>
-	</MetaData>
-	<MetaData name="5a0d1e18c76d5ca5270b49971f48af3c_DATA" reference="Actor.5a0d1e18c76d5ca5270b49971f48af3c">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-06-03 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-06-03 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-06-03 A"/>
-	</MetaData>
-	<MetaData name="47610f6c6737c0d3fcde6752f0df4334_DATA" reference="Actor.47610f6c6737c0d3fcde6752f0df4334">
-		<KeyValueProperty name="Element*Category" type="String" val="Specialty Equipment"/>
-		<KeyValueProperty name="Element*Family" type="String" val="34246-06-03 A"/>
-		<KeyValueProperty name="Element*Type" type="String" val="34246-06-03 A"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Link_Architecture"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Specialty Equipment : 34246-06-03 A"/>
-	</MetaData>
 	<MetaData name="8a6bc2881f25ec854373429425c7b52b_DATA" reference="Actor.8a6bc2881f25ec854373429425c7b52b">
 		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
@@ -9466,7 +8837,6 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="507"/>
 		<KeyValueProperty name="Element*Area" type="String" val="2 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.12 m³"/>
@@ -9483,10 +8853,9 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Element*Length" type="String" val="95"/>
+		<KeyValueProperty name="Element*Length" type="String" val="131"/>
 		<KeyValueProperty name="Element*Area" type="String" val="1 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.08 m³"/>
+		<KeyValueProperty name="Element*Volume" type="String" val="0.09 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
@@ -9500,206 +8869,13 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Element*Length" type="String" val="1619"/>
 		<KeyValueProperty name="Element*Area" type="String" val="5 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.41 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
 	</MetaData>
-	<MetaData name="34b17ff56a65db5ed458d480e6bba6dd_DATA" reference="Actor.34b17ff56a65db5ed458d480e6bba6dd">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="04f345a1c779a8024f5a2b76abca888a_DATA" reference="Actor.04f345a1c779a8024f5a2b76abca888a">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="29d0d092422d75b220f8eba791e0a5c1_DATA" reference="Actor.29d0d092422d75b220f8eba791e0a5c1">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="05fb56c2b650e9e429d359b226e14329_DATA" reference="Actor.05fb56c2b650e9e429d359b226e14329">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="e2b1093996522633a4f6dad7d713bd1e_DATA" reference="Actor.e2b1093996522633a4f6dad7d713bd1e">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="e5c2066710ef4d4b1a4ef0ffbaa45764_DATA" reference="Actor.e5c2066710ef4d4b1a4ef0ffbaa45764">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="a6606c7bc3506e81e679a6ecdefe4e95_DATA" reference="Actor.a6606c7bc3506e81e679a6ecdefe4e95">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="21881d6d36a5e82166766f87807e94a9_DATA" reference="Actor.21881d6d36a5e82166766f87807e94a9">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="6a7585d218fce8833ee5dec43aaf62cd_DATA" reference="Actor.6a7585d218fce8833ee5dec43aaf62cd">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="9c63f09295f40f4463e1e23f4f1a9277_DATA" reference="Actor.9c63f09295f40f4463e1e23f4f1a9277">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="cc4341c7efde51d7876375d60e5ab14f_DATA" reference="Actor.cc4341c7efde51d7876375d60e5ab14f">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="bee52715c163617b01be693ce7114285_DATA" reference="Actor.bee52715c163617b01be693ce7114285">
-		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
-		<KeyValueProperty name="Element*Type" type="String" val="500mm_Diameter"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
-		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
-		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
-		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
-	</MetaData>
-	<MetaData name="ea48e2e8418a60a524865ec6282efb21_DATA" reference="Actor.ea48e2e8418a60a524865ec6282efb21">
+	<MetaData name="e224043d55b24c59a2c26b596d73bf6c_DATA" reference="Actor.e224043d55b24c59a2c26b596d73bf6c">
 		<KeyValueProperty name="Element*Category" type="String" val="Walls"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Basic Wall"/>
 		<KeyValueProperty name="Element*Type" type="String" val="75mm Internal Wall"/>
@@ -9709,12 +8885,179 @@
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
-		<KeyValueProperty name="Element*Length" type="String" val="7534"/>
+		<KeyValueProperty name="Element*Length" type="String" val="7460"/>
 		<KeyValueProperty name="Element*Area" type="String" val="10 m²"/>
 		<KeyValueProperty name="Element*Volume" type="String" val="0.77 m³"/>
 		<KeyValueProperty name="Type*Structural Material" type="String" val="Metal Stud Layer"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Wall Types"/>
+	</MetaData>
+	<MetaData name="0253ccdf776fa8b75b60fba8b67e0a4f_DATA" reference="Actor.0253ccdf776fa8b75b60fba8b67e0a4f">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="2efe4ae822fec742cd0f85f5f023a6d2_DATA" reference="Actor.2efe4ae822fec742cd0f85f5f023a6d2">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="11ab7669beb104687b7f051d05bde55d_DATA" reference="Actor.11ab7669beb104687b7f051d05bde55d">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="f5d87d7d8c69fa29bc64a9678a3903c2_DATA" reference="Actor.f5d87d7d8c69fa29bc64a9678a3903c2">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="cfa2ab170c555ca7f7b26bb10d058960_DATA" reference="Actor.cfa2ab170c555ca7f7b26bb10d058960">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="d43f031898dbff6c6bbbc0457eb0bdce_DATA" reference="Actor.d43f031898dbff6c6bbbc0457eb0bdce">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="cb125b135d1779ba651e165bf77ecee3_DATA" reference="Actor.cb125b135d1779ba651e165bf77ecee3">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="bf96d0a00012a8631ee9543b3a5d1dea_DATA" reference="Actor.bf96d0a00012a8631ee9543b3a5d1dea">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="5faf80df1123bd6524159e24b213527b_DATA" reference="Actor.5faf80df1123bd6524159e24b213527b">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="cce70862e4620ac767bdf7b18384a227_DATA" reference="Actor.cce70862e4620ac767bdf7b18384a227">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="7763865597908ea1680371ecbfcadc96_DATA" reference="Actor.7763865597908ea1680371ecbfcadc96">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
+	</MetaData>
+	<MetaData name="1b733c76f9d6dcf9fdbd3a6912069b51_DATA" reference="Actor.1b733c76f9d6dcf9fdbd3a6912069b51">
+		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Columns_Round"/>
+		<KeyValueProperty name="Element*Type" type="String" val="550mm_Diameter"/>
+		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
+		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
+		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
+		<KeyValueProperty name="Type*Material" type="String" val="&lt;By Category&gt;"/>
+		<KeyValueProperty name="Type*Diameter" type="String" val="550"/>
+		<KeyValueProperty name="Type*Offset Base" type="String" val="0"/>
+		<KeyValueProperty name="Type*Offset Top" type="String" val="0"/>
+		<KeyValueProperty name="Type*Keynote" type="String" val="G"/>
+		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Columns : Columns_Round"/>
 	</MetaData>
 	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
 		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
@@ -9747,27 +9090,23 @@
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
 	</MetaData>
-	<MetaData name="b7a2f35fbffe58b657027b21ebfc6bcf_DATA" reference="Actor.b7a2f35fbffe58b657027b21ebfc6bcf">
+	<MetaData name="6f9e2f1f15b872871bcf388b97f8d25b_DATA" reference="Actor.6f9e2f1f15b872871bcf388b97f8d25b">
 		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Sqare Column"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Sqare Column"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Square Column"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Square Column"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
-	<MetaData name="2bc5a4dc0298e721598503b8776692a8_DATA" reference="Actor.2bc5a4dc0298e721598503b8776692a8">
+	<MetaData name="a397be4b29dff6c86c591f209457af71_DATA" reference="Actor.a397be4b29dff6c86c591f209457af71">
 		<KeyValueProperty name="Element*Category" type="String" val="Columns"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Sqare Column"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Sqare Column"/>
+		<KeyValueProperty name="Element*Family" type="String" val="Square Column"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Square Column"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
 		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
 		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Edited by" type="String" val="rachel.thornton56HC4"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Edited by" type="String" val="rachel.thornton56HC4"/>
 	</MetaData>
-	<Export Duration="4"/>
+	<Export Duration="3"/>
 </DatasmithUnrealScene>
