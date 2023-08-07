@@ -5,56 +5,32 @@
 	<Application Vendor="Autodesk Inc." ProductName="Revit" ProductVersion="2021"/>
 	<ResourcePath>D:/Unreal Projects/Cafe</ResourcePath>
 	<User ID="69cc7e3a433963a5e4c3caa1735b30a3" OS="Windows 10 (22H2) [10.0.19045.3086]"/>
-	<StaticMesh name="cf7ac2999ca8a0d935af73764d0a40cd" label="Structural_Framing_UB-Universal_Beams_UB305x165x40">
-		<file path="Lothbury_Arch_L06_Assets/cf7ac2999ca8a0d935af73764d0a40cd.udsmesh"/>
-		<Size a="55077.78125" x="445.499969" y="16.5" z="30.339998"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="2870cf9997e933f844f3de901ce2aa76"/>
-		<Material id="0" name="708cd31f86f60ef3d14ca799a9b27615"/>
-	</StaticMesh>
-	<StaticMesh name="e9c37bbbf18d8601c4f05a6b63edff1b" label="Structural_Framing_UB-Universal_Beams_UB305x165x40">
-		<file path="Lothbury_Arch_L06_Assets/e9c37bbbf18d8601c4f05a6b63edff1b.udsmesh"/>
-		<Size a="40825.730469" x="330.0" y="16.5" z="30.339998"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="6673443c7db2d11b002abfb8772d71f6"/>
-		<Material id="0" name="708cd31f86f60ef3d14ca799a9b27615"/>
-	</StaticMesh>
-	<StaticMesh name="3ee3fd6777c08e2b0f44ec7c820902c9" label="Floors_Floor_Generic_300mm">
-		<file path="Lothbury_Arch_L06_Assets/3ee3fd6777c08e2b0f44ec7c820902c9.udsmesh"/>
-		<Size a="9275382.0" x="3774.72583" y="2605.238525" z="12.628531"/>
-		<LightmapCoordinateIndex value="-1"/>
-		<LightmapUV value="-1"/>
-		<Hash value="b7c8aa8c4624b4a50d029ebb134330cf"/>
-		<Material id="0" name="358f260f88fe585d3f8f8b82832a8974"/>
-	</StaticMesh>
-	<StaticMesh name="986ee6175d57f69e8486bcbfbd22f68b" label="Cad-Scope_Level_6_Ceiling_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_dwg_Cad-Scope_Level_6_Ceiling_dwg_Auditorium_Ceiling">
+	<StaticMesh name="986ee6175d57f69e8486bcbfbd22f68b" label="Cad-Scope_Level_6_Ceiling_RT_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_RT_dwg_Cad-Scope_Level_6_Ceiling_RT_dwg_Auditorium_Ceiling">
 		<file path="Lothbury_Arch_L06_Assets/986ee6175d57f69e8486bcbfbd22f68b.udsmesh"/>
-		<Size a="3240623.0" x="1787.326172" y="2086.22876" z="125.404785"/>
+		<Size a="3236578.0" x="1787.326172" y="2086.22876" z="117.917969"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="866b6ac7700181aa8c1a568374c70cbf"/>
+		<Hash value="81aba04ac46834b3e514a94b84cc2868"/>
 		<Material id="0" name="42675ac2e5aabcb6674db6da2df6ce42"/>
 		<Material id="1" name="f46d58da620516a0015093dd388077f8"/>
 		<Material id="2" name="b8c3d22cb3f9b6c32ea33efb67938249"/>
 		<Material id="3" name="6f50bae5442b4f77111abcdd5b6e7a13"/>
 	</StaticMesh>
-	<StaticMesh name="7c84a1a4c7e8e8b24d6d0c0317d8d109" label="Cad-Scope_Level_6_Ceiling_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_dwg">
+	<StaticMesh name="7c84a1a4c7e8e8b24d6d0c0317d8d109" label="Cad-Scope_Level_6_Ceiling_RT_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_RT_dwg">
 		<file path="Lothbury_Arch_L06_Assets/7c84a1a4c7e8e8b24d6d0c0317d8d109.udsmesh"/>
-		<Size a="132674216.0" x="4219.540039" y="3232.399414" z="493.128662"/>
+		<Size a="54040712.0" x="2907.436523" y="3055.950684" z="473.499756"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="76ea0bca0394c26698fed5288566939c"/>
+		<Hash value="13a1114620e46c81aac107b62b2003d7"/>
 		<Material id="0" name="74d6cacb9641b43e961979b661d30677"/>
 		<Material id="1" name="6f50bae5442b4f77111abcdd5b6e7a13"/>
 		<Material id="2" name="f46d58da620516a0015093dd388077f8"/>
 		<Material id="3" name="42675ac2e5aabcb6674db6da2df6ce42"/>
 	</StaticMesh>
-	<Camera name="84bfc266e51c9af19e8e4e9de2654cc8" label="Object_3D_-_rachel_thornton56HC4_" layer="Views">
-		<Transform tx="4628.116505" ty="-5413.884345" tz="6115.740564" sx="1.0" sy="1.0" sz="1.0" qx="-0.244863" qy="0.172968" qz="0.779205" qw="0.550421" qhex64="D4097756AF57CFBFD6202FC2D423C63F1B8406B43FEFE83FDD99E5250C9DE13F"/>
+	<Camera name="b5bf558a06213e01067feb826a987cee" label="RT" layer="Views">
+		<Transform tx="3126.57725" ty="-1987.50726" tz="5739.910951" sx="1.0" sy="1.0" sz="1.0" qx="0.143662" qy="0.310108" qz="-0.395037" qw="0.852725" qhex64="23601F8C8563C23FA8BAD0DBD0D8D33F5E0BFB794948D9BF11E76AA98549EB3F"/>
 		<SensorWidth value="36.0"/>
-		<SensorAspectRatio value="0.961201"/>
+		<SensorAspectRatio value="1.384969"/>
 		<DepthOfField enabled="0"/>
 		<FocusDistance value="30480.0"/>
 		<FStop value="5.6"/>
@@ -81,45 +57,20 @@
 		<tag value="Revit.Element.UniqueId.8c305f59-e22d-427b-955c-5e48c698e9b4-00065f7c" />
 		<tag value="Revit.Element.BasePoint" />
 	</Actor>
-	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_8mm_Head_Level_07" layer="Levels">
-		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-		<tag value="Revit.Element.Id.1427596" />
-		<tag value="Revit.Element.UniqueId.3a788fa6-99b2-4a77-84b1-de82e7651866-0015c88c" />
-		<tag value="IsElement" />
-		<children visible="true">
-			<ActorMesh name="dd840ca0432ce65991342e358ce2910b" label="Floors_Floor_Generic_300mm" layer="Floors">
-				<mesh name="3ee3fd6777c08e2b0f44ec7c820902c9"/>
-				<Transform tx="2062.149348" ty="-2370.651526" tz="4574.499931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
-				<tag value="Revit.Element.Id.2420219" />
-				<tag value="Revit.Element.UniqueId.df144ee2-b127-4c57-9d3b-963e8dd28a7f-0024edfb" />
-				<tag value="IsElement" />
-			</ActorMesh>
-		</children>
-	</Actor>
-	<Actor name="b04c95c9b8cd00231891265a1f7ac31a" label="Level_8mm_Head_Level_06" layer="Levels">
+	<Actor name="8881191d9aeff00698530cf609915d4c" label="Level_8mm_Head_Level_06" layer="Levels">
 		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 		<tag value="Revit.Element.Id.1427571" />
 		<tag value="Revit.Element.UniqueId.3a788fa6-99b2-4a77-84b1-de82e7651866-0015c873" />
 		<tag value="IsElement" />
+		<tag value="IsElement" />
 		<children visible="true">
-			<ActorMesh name="34e39cae35472fbf886174613975a59f" label="Structural_Framing_UB-Universal_Beams_UB305x165x40" layer="Structural Framing">
-				<mesh name="cf7ac2999ca8a0d935af73764d0a40cd"/>
-				<Transform tx="3183.234257" ty="-3816.829586" tz="4106.829938" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.692858" qw="0.721074" qhex64="00000000000000800000000000000000043B9DC4E42BE6BF98DC2EAD0913E73F"/>
-				<tag value="Revit.Element.Id.2072658" />
-				<tag value="Revit.Element.UniqueId.a939b3f2-3b7b-4ff6-acc4-d6b2189ba043-001fa052" />
-				<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-				<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-				<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-				<tag value="Revit.Host.Id.1427571" />
-				<tag value="Revit.Host.UniqueId.3a788fa6-99b2-4a77-84b1-de82e7651866-0015c873" />
-			</ActorMesh>
-			<ActorMesh name="a858f19bc780c70cc9298cafa18ba10d" label="Cad-Scope_Level_6_Ceiling_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_dwg" layer="Cad-Scope Level 6 Ceiling.dwg">
+			<ActorMesh name="a858f19bc780c70cc9298cafa18ba10d" label="Cad-Scope_Level_6_Ceiling_RT_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_RT_dwg" layer="Cad-Scope Level 6 Ceiling RT.dwg">
 				<mesh name="7c84a1a4c7e8e8b24d6d0c0317d8d109"/>
 				<Transform tx="-0.0" ty="-0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 				<tag value="Revit.Element.Id.2602789" />
 				<tag value="Revit.Element.UniqueId.c10f347e-3152-4075-b074-42965c1945f1-0027b725" />
 				<children visible="true">
-					<ActorMesh name="f4720214c8c1d9a206628b8320b24390" label="Cad-Scope_Level_6_Ceiling_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_dwg_Cad-Scope_Level_6_Ceiling_dwg_Auditorium_Ceiling" layer="Cad-Scope Level 6 Ceiling.dwg" component="true">
+					<ActorMesh name="f4720214c8c1d9a206628b8320b24390" label="Cad-Scope_Level_6_Ceiling_RT_dwg_Import_Symbol_Cad-Scope_Level_6_Ceiling_RT_dwg_Cad-Scope_Level_6_Ceiling_RT_dwg_Auditorium_Ceiling" layer="Cad-Scope Level 6 Ceiling RT.dwg" component="true">
 						<mesh name="986ee6175d57f69e8486bcbfbd22f68b"/>
 						<Transform tx="-0.0" ty="-0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex64="000000000000000000000000000000000000000000000000000000000000F03F"/>
 						<tag value="Revit.Element.Id.2602789" />
@@ -129,37 +80,6 @@
 			</ActorMesh>
 		</children>
 	</Actor>
-	<ActorMesh name="1c4e0aa65f57d0e4885bc1d5f128105a" label="Structural_Framing_UB-Universal_Beams_UB305x165x40" layer="Structural Framing">
-		<mesh name="e9c37bbbf18d8601c4f05a6b63edff1b"/>
-		<Transform tx="3181.211566" ty="-3766.169938" tz="4570.829931" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.692858" qw="0.721074" qhex64="00000000000000800000000000000000073B9DC4E42BE6BF95DC2EAD0913E73F"/>
-		<tag value="Revit.Element.Id.2072715" />
-		<tag value="Revit.Element.UniqueId.a939b3f2-3b7b-4ff6-acc4-d6b2189ba043-001fa08b" />
-		<tag value="Revit.DB.FamilyInstance.Mirrored.False" />
-		<tag value="Revit.DB.FamilyInstance.HandFlipped.False" />
-		<tag value="Revit.DB.FamilyInstance.FaceFlipped.False" />
-	</ActorMesh>
-	<MaterialInstance name="708cd31f86f60ef3d14ca799a9b27615"  label="Metal_-_Steel_43-275" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.968627,G=0.968627,B=0.968627,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
-	<MaterialInstance name="358f260f88fe585d3f8f8b82832a8974"  label="Default_Floor" Type="1" Quality="0" >
-		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
-		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
-		<KeyValueProperty name="TintEnabled" type="Bool" val="False"/>
-		<KeyValueProperty name="TintColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationLuminance" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationColorTemperature" type="Float" val="0.000000"/>
-		<KeyValueProperty name="SelfIlluminationFilter" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
-		<KeyValueProperty name="SelfIlluminationMapEnable" type="Bool" val="False"/>
-		<KeyValueProperty name="BumpAmount" type="Float" val="0.000000"/>
-		<KeyValueProperty name="IsMetal" type="Bool" val="False"/>
-		<KeyValueProperty name="Glossiness" type="Float" val="0.500000"/>
-	</MaterialInstance>
 	<MaterialInstance name="74d6cacb9641b43e961979b661d30677"  label="RNT_Material" Type="1" Quality="0" >
 		<KeyValueProperty name="DiffuseColor" type="Color" val="(R=0.498039,G=0.498039,B=0.498039,A=1.000000)"/>
 		<KeyValueProperty name="DiffuseMapFading" type="Float" val="0.000000"/>
@@ -224,173 +144,40 @@
 		<KeyValueProperty name="BasePointLocation*Elev" type="String" val="0"/>
 		<KeyValueProperty name="BasePointLocation*Angle to True North" type="String" val="0.00°"/>
 	</MetaData>
-	<MetaData name="dd840ca0432ce65991342e358ce2910b_DATA" reference="Actor.dd840ca0432ce65991342e358ce2910b">
-		<KeyValueProperty name="Element*Category" type="String" val="Floors"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Floor"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Generic 300mm"/>
-		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="No"/>
-		<KeyValueProperty name="Element*Perimeter" type="String" val="121912"/>
-		<KeyValueProperty name="Element*Area" type="String" val="456 m²"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="136.82 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="46045"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="45745"/>
-		<KeyValueProperty name="Element*Thickness" type="String" val="300"/>
-		<KeyValueProperty name="Type*Structural Material" type="String" val="&lt;By Category&gt;"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Floor Types"/>
-	</MetaData>
-	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
-		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
-		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
-		<KeyValueProperty name="Element*Type" type="String" val="8mm Head"/>
-		<KeyValueProperty name="Element*Name" type="String" val="Level 07"/>
-		<KeyValueProperty name="Element*Computation Height" type="String" val="0"/>
-		<KeyValueProperty name="Element*Structural" type="String" val="No"/>
-		<KeyValueProperty name="Element*Building Story" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Level Types"/>
-	</MetaData>
-	<MetaData name="1c4e0aa65f57d0e4885bc1d5f128105a_DATA" reference="Actor.1c4e0aa65f57d0e4885bc1d5f128105a">
-		<KeyValueProperty name="Element*Category" type="String" val="Structural Framing"/>
-		<KeyValueProperty name="Element*Family" type="String" val="UB-Universal Beams"/>
-		<KeyValueProperty name="Element*Type" type="String" val="UB305x165x40"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Stick Symbol Location" type="String" val="Center of Geometry"/>
-		<KeyValueProperty name="Element*Start Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*End Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*Cut Length" type="String" val="3300"/>
-		<KeyValueProperty name="Element*Structural Usage" type="String" val="Other"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Structural Material" type="String" val="Metal - Steel 43-275"/>
-		<KeyValueProperty name="Element*Length" type="String" val="3300"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.02 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="45860"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="45557"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Section Shape" type="String" val="I-shape Wide Flange"/>
-		<KeyValueProperty name="Type*Bolt Spacing" type="String" val="9.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing Two Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing between Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Section Name Key" type="String" val="UB305X165X40"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Structural Framing : UB-Universal Beams"/>
-		<KeyValueProperty name="Type*Code Name" type="String" val="BS 5950-1:2000"/>
-	</MetaData>
-	<MetaData name="2d61a86e7fa0dcdaa88446fd4e56bdb0_DATA" reference="Actor.2d61a86e7fa0dcdaa88446fd4e56bdb0">
-		<KeyValueProperty name="Element*Category" type="String" val="Structural Framing"/>
-		<KeyValueProperty name="Element*Family" type="String" val="UB-Universal Beams"/>
-		<KeyValueProperty name="Element*Type" type="String" val="UB305x165x40"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Stick Symbol Location" type="String" val="Center of Geometry"/>
-		<KeyValueProperty name="Element*Start Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*End Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*Cut Length" type="String" val="3300"/>
-		<KeyValueProperty name="Element*Structural Usage" type="String" val="Other"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Structural Material" type="String" val="Metal - Steel 43-275"/>
-		<KeyValueProperty name="Element*Length" type="String" val="3300"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.02 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="45860"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="45557"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Section Shape" type="String" val="I-shape Wide Flange"/>
-		<KeyValueProperty name="Type*Bolt Spacing" type="String" val="9.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing Two Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing between Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Section Name Key" type="String" val="UB305X165X40"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Structural Framing : UB-Universal Beams"/>
-		<KeyValueProperty name="Type*Code Name" type="String" val="BS 5950-1:2000"/>
-	</MetaData>
-	<MetaData name="34e39cae35472fbf886174613975a59f_DATA" reference="Actor.34e39cae35472fbf886174613975a59f">
-		<KeyValueProperty name="Element*Category" type="String" val="Structural Framing"/>
-		<KeyValueProperty name="Element*Family" type="String" val="UB-Universal Beams"/>
-		<KeyValueProperty name="Element*Type" type="String" val="UB305x165x40"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Stick Symbol Location" type="String" val="Center of Geometry"/>
-		<KeyValueProperty name="Element*Start Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*End Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*Cut Length" type="String" val="4455"/>
-		<KeyValueProperty name="Element*Structural Usage" type="String" val="Other"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Structural Material" type="String" val="Metal - Steel 43-275"/>
-		<KeyValueProperty name="Element*Length" type="String" val="4455"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.02 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="41220"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="40917"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Section Shape" type="String" val="I-shape Wide Flange"/>
-		<KeyValueProperty name="Type*Bolt Spacing" type="String" val="9.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing Two Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing between Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Section Name Key" type="String" val="UB305X165X40"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Structural Framing : UB-Universal Beams"/>
-		<KeyValueProperty name="Type*Code Name" type="String" val="BS 5950-1:2000"/>
-	</MetaData>
-	<MetaData name="f70f32a46c666ef3af009b00076c9b4e_DATA" reference="Actor.f70f32a46c666ef3af009b00076c9b4e">
-		<KeyValueProperty name="Element*Category" type="String" val="Structural Framing"/>
-		<KeyValueProperty name="Element*Family" type="String" val="UB-Universal Beams"/>
-		<KeyValueProperty name="Element*Type" type="String" val="UB305x165x40"/>
-		<KeyValueProperty name="Element*Phase Created" type="String" val="New Construction"/>
-		<KeyValueProperty name="Element*Phase Demolished" type="String" val="None"/>
-		<KeyValueProperty name="Element*Stick Symbol Location" type="String" val="Center of Geometry"/>
-		<KeyValueProperty name="Element*Start Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*End Connection" type="String" val="None"/>
-		<KeyValueProperty name="Element*Cut Length" type="String" val="4455"/>
-		<KeyValueProperty name="Element*Structural Usage" type="String" val="Other"/>
-		<KeyValueProperty name="Element*Enable Analytical Model" type="String" val="Yes"/>
-		<KeyValueProperty name="Element*Structural Material" type="String" val="Metal - Steel 43-275"/>
-		<KeyValueProperty name="Element*Length" type="String" val="4455"/>
-		<KeyValueProperty name="Element*Volume" type="String" val="0.02 m³"/>
-		<KeyValueProperty name="Element*Elevation at Top" type="String" val="41220"/>
-		<KeyValueProperty name="Element*Elevation at Bottom" type="String" val="40917"/>
-		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Type*Section Shape" type="String" val="I-shape Wide Flange"/>
-		<KeyValueProperty name="Type*Bolt Spacing" type="String" val="9.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing Two Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Bolt Spacing between Rows" type="String" val="0.0 cm"/>
-		<KeyValueProperty name="Type*Section Name Key" type="String" val="UB305X165X40"/>
-		<KeyValueProperty name="Type*Workset" type="String" val="Family  : Structural Framing : UB-Universal Beams"/>
-		<KeyValueProperty name="Type*Code Name" type="String" val="BS 5950-1:2000"/>
-	</MetaData>
 	<MetaData name="f4720214c8c1d9a206628b8320b24390_DATA" reference="Actor.f4720214c8c1d9a206628b8320b24390">
-		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Import Symbol"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Instance Scale" type="String" val="1"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Drainage"/>
 		<KeyValueProperty name="Type*Import Units" type="String" val="millimeter"/>
 		<KeyValueProperty name="Type*Scale Factor" type="String" val="1"/>
 	</MetaData>
 	<MetaData name="a858f19bc780c70cc9298cafa18ba10d_DATA" reference="Actor.a858f19bc780c70cc9298cafa18ba10d">
-		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Import Symbol"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Instance Scale" type="String" val="1"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Drainage"/>
 		<KeyValueProperty name="Type*Import Units" type="String" val="millimeter"/>
 		<KeyValueProperty name="Type*Scale Factor" type="String" val="1"/>
 	</MetaData>
 	<MetaData name="fb52dee423fb822f7bfa72f731a81279_DATA" reference="Actor.fb52dee423fb822f7bfa72f731a81279">
-		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Category" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Import Symbol"/>
-		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Type" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Workset" type="String" val="Workset1"/>
-		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling.dwg"/>
+		<KeyValueProperty name="Element*Name" type="String" val="Cad-Scope Level 6 Ceiling RT.dwg"/>
 		<KeyValueProperty name="Element*Instance Scale" type="String" val="1"/>
 		<KeyValueProperty name="Type*Workset" type="String" val="Drainage"/>
 		<KeyValueProperty name="Type*Import Units" type="String" val="millimeter"/>
 		<KeyValueProperty name="Type*Scale Factor" type="String" val="1"/>
 	</MetaData>
-	<MetaData name="b04c95c9b8cd00231891265a1f7ac31a_DATA" reference="Actor.b04c95c9b8cd00231891265a1f7ac31a">
+	<MetaData name="8881191d9aeff00698530cf609915d4c_DATA" reference="Actor.8881191d9aeff00698530cf609915d4c">
 		<KeyValueProperty name="Element*Category" type="String" val="Levels"/>
 		<KeyValueProperty name="Element*Family" type="String" val="Level"/>
 		<KeyValueProperty name="Element*Type" type="String" val="8mm Head"/>
